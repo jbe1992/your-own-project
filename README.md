@@ -4,8 +4,10 @@
 # Welcome to Title to be defined!
 
 ## Project Goals
-Do a database to store all the current jobs offers in Spain about Web Development.
+Do a database to store all the current jobs offers in Spain about Web Development. Then I will create a jupyter notebook to analyze the data.
+
 How to get the data:
+
  APIS:
   - Indeed: http://opensource.indeedeng.io/api-documentation/docs/job-search/
   - Infojobs: https://developer.infojobs.net/test-console/execute.xhtml
