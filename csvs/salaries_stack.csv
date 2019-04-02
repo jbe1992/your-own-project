@@ -1,0 +1,385 @@
+﻿Country;YearsCodingProf;DevType;Salary;SalaryType;CurrencySymbol
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer;Student";24000;Yearly;EUR
+Spain;3-5 years;Front-end developer;24000;Yearly;EUR
+Spain;6-8 years;Back-end developer;28000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer;QA or test developer;System administrator";30000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Database administrator;Full-stack developer;System administrator";27000;Yearly;EUR
+Spain;3-5 years;Back-end developer;22000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;C-suite executive (CEO, CTO, etc.);Front-end developer;Full-stack developer";32000;Yearly;EUR
+Spain;0-2 years;"Front-end developer;Mobile developer";30000;Yearly;EUR
+Spain;6-8 years;Back-end developer;30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;Engineering manager";35000;Yearly;EUR
+Spain;3-5 years;Back-end developer;30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;9-11 years;Back-end developer;58000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Game or graphics developer;Mobile developer";13000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;QA or test developer;Student";27000;Yearly;EUR
+Spain;3-5 years;Front-end developer;35000;Yearly;EUR
+Spain;0-2 years;Back-end developer;24000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Mobile developer";47500;Yearly;EUR
+Spain;6-8 years;"Back-end developer;DevOps specialist;Full-stack developer";33000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;C-suite executive (CEO, CTO, etc.);Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Marketing or sales professional;System administrator";45000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";27000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer";36000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;DevOps specialist";45500;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Full-stack developer;QA or test developer";37000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Embedded applications or devices developer;Front-end developer;QA or test developer";21000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer;Student";24000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer";26000;Yearly;EUR
+Spain;6-8 years;Back-end developer;65000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;DevOps specialist;Front-end developer;Full-stack developer";90000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Front-end developer;Full-stack developer;System administrator";35000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer";21000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Desktop or enterprise applications developer;Engineering manager;Full-stack developer;Product manager";52000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Front-end developer;Full-stack developer";43000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Engineering manager;Front-end developer;Full-stack developer";35000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Desktop or enterprise applications developer";19000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer";41000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Database administrator;DevOps specialist;System administrator";25000;Yearly;EUR
+Spain;18-20 years;Back-end developer;35000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer";22000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Game or graphics developer;QA or test developer";34000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer";31000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Front-end developer;Full-stack developer;Student";15000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Front-end developer;Full-stack developer";50000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";35000;Yearly;EUR
+Spain;0-2 years;Back-end developer;17000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Designer;Desktop or enterprise applications developer;DevOps specialist;Embedded applications or devices developer;Full-stack developer;System administrator";35000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Mobile developer";25000;Yearly;EUR
+Spain;15-17 years;Back-end developer;72000;Yearly;EUR
+Spain;24-26 years;Back-end developer;36000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;DevOps specialist;Full-stack developer";35000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer";26000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Front-end developer;Full-stack developer";33000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer;Mobile developer;System administrator";42000;Yearly;EUR
+Spain;15-17 years;Back-end developer;80000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer";30000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Student";27000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Full-stack developer";30000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;DevOps specialist;Full-stack developer;QA or test developer";44000;Yearly;EUR
+Spain;0-2 years;Back-end developer;16500;Yearly;EUR
+Spain;6-8 years;Back-end developer;35000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer";16000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Mobile developer";42000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Front-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;9-11 years;"Front-end developer;Full-stack developer";31000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Mobile developer";23500;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Database administrator;Engineering manager;Product manager;QA or test developer";25000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Database administrator;DevOps specialist;Front-end developer;Mobile developer;QA or test developer;System administrator";32000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data scientist or machine learning specialist;Database administrator;Full-stack developer";18000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;DevOps specialist;Engineering manager";45000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Desktop or enterprise applications developer";18000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;DevOps specialist;Embedded applications or devices developer;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer;QA or test developer;System administrator";26500;Yearly;EUR
+Spain;3-5 years;Front-end developer;48000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";29000;Yearly;EUR
+Spain;3-5 years;Front-end developer;26000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer;QA or test developer";28000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";12500;Yearly;EUR
+Spain;9-11 years;"Desktop or enterprise applications developer;Front-end developer;Mobile developer";40000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";41000;Yearly;EUR
+Spain;9-11 years;Back-end developer;55000;Yearly;EUR
+Spain;15-17 years;Back-end developer;27000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Educator or academic researcher;Full-stack developer";40000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Mobile developer";32000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;QA or test developer";20000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;Designer;DevOps specialist;System administrator";35000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Front-end developer";14000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Engineering manager;Front-end developer;Full-stack developer;Mobile developer";45000;Yearly;EUR
+Spain;3-5 years;Front-end developer;25000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Data or business analyst;Full-stack developer";27000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Engineering manager";26000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Embedded applications or devices developer;Front-end developer;QA or test developer";30000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data scientist or machine learning specialist;Educator or academic researcher;Product manager";40000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;Educator or academic researcher;Front-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer;System administrator";26000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator";26000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Student";25000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";24000;Yearly;EUR
+Spain;3-5 years;Back-end developer;24000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";39000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Engineering manager";62000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";28000;Yearly;EUR
+Spain;0-2 years;Back-end developer;22000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Student";15000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";28500;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Engineering manager;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer";40000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer";44000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer";26000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Product manager;QA or test developer";40000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Data or business analyst;Front-end developer;Full-stack developer;System administrator";37000;Yearly;EUR
+Spain;3-5 years;Front-end developer;23500;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;System administrator";22000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;System administrator";55000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer;System administrator";18000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";47000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Engineering manager";53000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Full-stack developer";23200;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer;QA or test developer";22600;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Designer;Front-end developer;Full-stack developer;Mobile developer";43500;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";26000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;QA or test developer";15000;Yearly;EUR
+Spain;6-8 years;"Engineering manager;Front-end developer;Full-stack developer";36000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer";36000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer";31000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";33000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Data scientist or machine learning specialist;Database administrator";32000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Embedded applications or devices developer;Front-end developer";13000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer;Mobile developer;Student";29000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;9-11 years;Back-end developer;35000;Yearly;EUR
+Spain;3-5 years;"Data or business analyst;Data scientist or machine learning specialist;Front-end developer";22000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data scientist or machine learning specialist";33000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Data or business analyst";50000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Mobile developer";18000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer;Student";29000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer";23000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";23750;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Full-stack developer";41000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data or business analyst;Front-end developer;Full-stack developer;Mobile developer";20000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Front-end developer;QA or test developer";25000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";33000;Yearly;EUR
+Spain;3-5 years;Back-end developer;36000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";16000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst";42000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";39000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer";35000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";24000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Engineering manager";50000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;6-8 years;Back-end developer;33000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;DevOps specialist;Engineering manager;Front-end developer;Full-stack developer;Marketing or sales professional;Mobile developer;Product manager;QA or test developer;System administrator";30000;Yearly;EUR
+Spain;6-8 years;Back-end developer;35000;Yearly;EUR
+Spain;9-11 years;Front-end developer;34000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";38000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer;QA or test developer";24000;Yearly;EUR
+Spain;18-20 years;Back-end developer;50000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;DevOps specialist;Educator or academic researcher;Full-stack developer;Mobile developer;System administrator";35000;Yearly;EUR
+Spain;12-14 years;Back-end developer;34000;Yearly;EUR
+Spain;12-14 years;Back-end developer;55000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;C-suite executive (CEO, CTO, etc.);Data or business analyst;Front-end developer;Full-stack developer;System administrator";45000;Yearly;EUR
+Spain;0-2 years;Front-end developer;18000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;Engineering manager;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer;System administrator";25000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;System administrator";46000;Yearly;EUR
+Spain;9-11 years;Back-end developer;27000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;DevOps specialist;Full-stack developer;Student";16000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer";37500;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data scientist or machine learning specialist;Database administrator;DevOps specialist;Educator or academic researcher;Full-stack developer;System administrator";27000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Designer;DevOps specialist";50000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Full-stack developer;Mobile developer";20000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Mobile developer";40000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;C-suite executive (CEO, CTO, etc.);Full-stack developer";24000;Yearly;EUR
+Spain;3-5 years;Back-end developer;23000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;System administrator";30400;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer;System administrator";24000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;DevOps specialist;QA or test developer;System administrator";25000;Yearly;EUR
+Spain;9-11 years;Front-end developer;51000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;DevOps specialist";30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;DevOps specialist;Full-stack developer";42000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer";19000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";32000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;System administrator";43000;Yearly;EUR
+Spain;3-5 years;Front-end developer;18000;Yearly;EUR
+Spain;6-8 years;Front-end developer;38000;Yearly;EUR
+Spain;3-5 years;Back-end developer;27000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer;QA or test developer";27600;Yearly;EUR
+Spain;3-5 years;Back-end developer;33500;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Front-end developer;Full-stack developer";50000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer;Game or graphics developer";43600;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Data scientist or machine learning specialist";58000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer;System administrator";35000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer";26000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer;Mobile developer";30000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;DevOps specialist;Full-stack developer;Product manager";40000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Student";18000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Database administrator;DevOps specialist";37500;Yearly;EUR
+Spain;3-5 years;Back-end developer;26000;Yearly;EUR
+Spain;0-2 years;"Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer";35000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Mobile developer";30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;DevOps specialist;Front-end developer;Full-stack developer";28500;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer";29000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Database administrator;Designer;Front-end developer;Full-stack developer;System administrator";14500;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist";27000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer";60000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;9-11 years;Back-end developer;41500;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer";28000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Full-stack developer";48000;Yearly;EUR
+Spain;3-5 years;Back-end developer;28000;Yearly;EUR
+Spain;12-14 years;Back-end developer;45000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;DevOps specialist;Front-end developer;Full-stack developer;System administrator";33700;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Database administrator;Designer;Front-end developer;Full-stack developer;QA or test developer;System administrator";30000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Engineering manager;Full-stack developer;Mobile developer";40000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;System administrator";26000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer";47000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";28000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Game or graphics developer";18000;Yearly;EUR
+Spain;9-11 years;Back-end developer;33000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;24-26 years;Back-end developer;40000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;System administrator";23000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";26500;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Designer;Front-end developer;Full-stack developer;Game or graphics developer;Marketing or sales professional;Mobile developer;System administrator";21000;Yearly;EUR
+Spain;3-5 years;Back-end developer;28000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;DevOps specialist;Full-stack developer;QA or test developer";21000;Yearly;EUR
+Spain;0-2 years;Back-end developer;15000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Educator or academic researcher";23000;Yearly;EUR
+Spain;9-11 years;Back-end developer;37000;Yearly;EUR
+Spain;6-8 years;Back-end developer;35000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data or business analyst;Designer;Front-end developer;Mobile developer";20000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer";25800;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Mobile developer";21000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer;Product manager;QA or test developer";30000;Yearly;EUR
+Spain;3-5 years;Back-end developer;56000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";16000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Desktop or enterprise applications developer;DevOps specialist;Educator or academic researcher;Embedded applications or devices developer;Game or graphics developer;Mobile developer;System administrator";26000;Yearly;EUR
+Spain;0-2 years;Front-end developer;16000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";28000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Full-stack developer";32000;Yearly;EUR
+Spain;3-5 years;Front-end developer;36000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer";19000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer";49000;Yearly;EUR
+Spain;6-8 years;Back-end developer;37000;Yearly;EUR
+Spain;18-20 years;"Designer;Front-end developer;Game or graphics developer;Mobile developer";50000;Yearly;EUR
+Spain;0-2 years;"Front-end developer;Mobile developer";25000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;System administrator";30400;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data scientist or machine learning specialist;Desktop or enterprise applications developer;Educator or academic researcher;Front-end developer;Game or graphics developer;Mobile developer";20000;Yearly;EUR
+Spain;24-26 years;"Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer";39000;Yearly;EUR
+Spain;12-14 years;Back-end developer;50000;Yearly;EUR
+Spain;0-2 years;Front-end developer;20500;Yearly;EUR
+Spain;3-5 years;Front-end developer;29000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Student";21000;Yearly;EUR
+Spain;3-5 years;Back-end developer;35000;Yearly;EUR
+Spain;6-8 years;Back-end developer;40000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer;Mobile developer;Student";25000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data scientist or machine learning specialist";36000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer";30600;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Designer;Front-end developer;Full-stack developer";48000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst";19000;Yearly;EUR
+Spain;3-5 years;Back-end developer;22000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data or business analyst";20000;Yearly;EUR
+Spain;3-5 years;"Database administrator;Designer;DevOps specialist;Front-end developer";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";25000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;Front-end developer;Full-stack developer";36000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";33000;Yearly;EUR
+Spain;6-8 years;Front-end developer;20000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Engineering manager;Product manager";55000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Embedded applications or devices developer;Front-end developer;Full-stack developer;Product manager";40000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data scientist or machine learning specialist;Database administrator";25000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Desktop or enterprise applications developer;Embedded applications or devices developer;Full-stack developer";33000;Yearly;EUR
+Spain;24-26 years;"Back-end developer;Data scientist or machine learning specialist;Front-end developer;Full-stack developer;QA or test developer";52000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Full-stack developer";35000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer;Mobile developer";32000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;QA or test developer";31500;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Engineering manager;Product manager";45000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Data scientist or machine learning specialist;DevOps specialist;Engineering manager";50000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Embedded applications or devices developer;System administrator";31000;Yearly;EUR
+Spain;3-5 years;Back-end developer;25000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;DevOps specialist;Full-stack developer;System administrator";35000;Yearly;EUR
+Spain;15-17 years;Front-end developer;46500;Yearly;EUR
+Spain;0-2 years;Back-end developer;25000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;DevOps specialist;Engineering manager;System administrator";55000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;Educator or academic researcher;Front-end developer;Full-stack developer;System administrator";28000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Mobile developer";28000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";35000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer";35000;Yearly;EUR
+Spain;9-11 years;Back-end developer;33000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist";28000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Desktop or enterprise applications developer;Educator or academic researcher";15000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;DevOps specialist;QA or test developer";47000;Yearly;EUR
+Spain;3-5 years;Front-end developer;22500;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer";20000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";28000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Full-stack developer;Mobile developer";33000;Yearly;EUR
+Spain;3-5 years;"Front-end developer;Game or graphics developer;Mobile developer";34000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;DevOps specialist;Full-stack developer;QA or test developer;System administrator";26000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";24000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";18000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Embedded applications or devices developer;Mobile developer";50000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Desktop or enterprise applications developer";35000;Yearly;EUR
+Spain;3-5 years;Back-end developer;31000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Mobile developer";45000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Desktop or enterprise applications developer;Full-stack developer";40000;Yearly;EUR
+Spain;0-2 years;"Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;3-5 years;Back-end developer;24000;Yearly;EUR
+Spain;9-11 years;Back-end developer;26000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Front-end developer;Full-stack developer";18000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Designer;Front-end developer;Full-stack developer;Game or graphics developer;Student";16500;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Data scientist or machine learning specialist;Front-end developer;Full-stack developer";17000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Full-stack developer";24000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Full-stack developer";35000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Embedded applications or devices developer";38000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer";29000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;Mobile developer;System administrator";27000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Desktop or enterprise applications developer;Mobile developer";30000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Data or business analyst;Database administrator;Desktop or enterprise applications developer;Front-end developer;System administrator";44000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Engineering manager;Product manager";50000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;DevOps specialist;Front-end developer;Full-stack developer";22500;Yearly;EUR
+Spain;12-14 years;Back-end developer;40000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Front-end developer;Full-stack developer";30000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer;Product manager";32000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Designer;Desktop or enterprise applications developer";26000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Educator or academic researcher";60000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Full-stack developer;Mobile developer";22000;Yearly;EUR
+Spain;18-20 years;Front-end developer;27000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Data or business analyst;Front-end developer;Full-stack developer";85000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Desktop or enterprise applications developer";25000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Desktop or enterprise applications developer;DevOps specialist;Full-stack developer";43000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Database administrator;Full-stack developer";36000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Front-end developer;Full-stack developer;QA or test developer";41000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Product manager;System administrator";40000;Yearly;EUR
+Spain;12-14 years;"Front-end developer;Full-stack developer";60000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Front-end developer;Full-stack developer";20000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Embedded applications or devices developer;Engineering manager;Full-stack developer;Product manager;System administrator";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer";26000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist;Full-stack developer;System administrator";47000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Database administrator;Desktop or enterprise applications developer;QA or test developer";22000;Yearly;EUR
+Spain;6-8 years;"Engineering manager;Front-end developer;Product manager";27000;Yearly;EUR
+Spain;12-14 years;"Back-end developer;Full-stack developer";45000;Yearly;EUR
+Spain;0-2 years;Front-end developer;18000;Yearly;EUR
+Spain;0-2 years;"Designer;Front-end developer;Full-stack developer";24000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";24000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;DevOps specialist";49000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Database administrator;Designer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Front-end developer;Full-stack developer;Game or graphics developer;Mobile developer";30000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data scientist or machine learning specialist;Full-stack developer";42000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;DevOps specialist;Front-end developer;System administrator";50000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Mobile developer";67000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Database administrator;Designer;Desktop or enterprise applications developer;DevOps specialist;Front-end developer;Full-stack developer;Game or graphics developer;QA or test developer;System administrator";34000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Data or business analyst;Educator or academic researcher;Full-stack developer";60000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Educator or academic researcher;Front-end developer;Full-stack developer;Student";16500;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Designer;Front-end developer;Full-stack developer";10000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Desktop or enterprise applications developer;Front-end developer;Full-stack developer;Mobile developer;Student;System administrator";20000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Engineering manager;Front-end developer;Full-stack developer;Marketing or sales professional;Mobile developer;Product manager";50000;Yearly;EUR
+Spain;21-23 years;"Back-end developer;Database administrator;DevOps specialist;Front-end developer;Full-stack developer;System administrator";20000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Front-end developer;Full-stack developer;System administrator";26000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Front-end developer;Full-stack developer;System administrator";30000;Yearly;EUR
+Spain;0-2 years;"Back-end developer;Designer;Front-end developer;Mobile developer";18000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Full-stack developer";70000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Data or business analyst;Data scientist or machine learning specialist;Database administrator;System administrator";18000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;Front-end developer";95000;Yearly;EUR
+Spain;18-20 years;"Back-end developer;C-suite executive (CEO, CTO, etc.)";40000;Yearly;EUR
+Spain;9-11 years;"Back-end developer;Full-stack developer";40000;Yearly;EUR
+Spain;15-17 years;"Back-end developer;Database administrator;Designer;Front-end developer;Full-stack developer;System administrator";40000;Yearly;EUR
+Spain;3-5 years;"Back-end developer;Full-stack developer";22000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Front-end developer;Full-stack developer";72000;Yearly;EUR
+Spain;6-8 years;"Front-end developer;Full-stack developer;Mobile developer";45000;Yearly;EUR
+Spain;6-8 years;Back-end developer;38000;Yearly;EUR
+Spain;6-8 years;"Back-end developer;Data or business analyst;Desktop or enterprise applications developer;Educator or academic researcher;Full-stack developer;Student;System administrator";20000;Yearly;EUR
+Spain;0-2 years;Front-end developer;18000;Yearly;EUR
+Spain;6-8 years;Front-end developer;27000;Yearly;EUR
