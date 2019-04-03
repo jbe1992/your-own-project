@@ -1,0 +1,2627 @@
+{
+  "currentPage": 1,
+  "pageSize": 200,
+  "totalResults": 41,
+  "currentResults": 41,
+  "totalPages": 1,
+  "dataLayer": {
+     "es-sch-search_terms": "22front-end-developer-22",
+     "es-sch-region_level2_id": "0"
+  },
+  "offers": [
+     {
+        "id": "bb2eaffc144685a5852bc6efa4511d",
+        "title": "Senior Front End Developer (React/Redux)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/senior-front-end-developer-react-redux/of-ibb2eaffc144685a5852bc6efa4511d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 110,
+           "value": "Diplomatura"
+        },
+        "published": "2019-02-12T17:08:15.000Z",
+        "updated": "2019-02-12T17:08:15.000Z",
+        "author": {
+           "id": "11010856485055515153980013113393913803",
+           "name": "Cognizant Technology Solutions",
+           "uri": "https://cognizant.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/59/595783f4-e94d-4bc5-af52-73cc54040d23?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MzMyMDA3ODAsImV4cCI6MTU2NDczNjc4MCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzU5LzU5NTc4M2Y0LWU5NGQtNGJjNS1hZjUyLTczY2M1NDA0MGQyMyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.aGcLMgdWArBNshHcgIDIwfyVKShfALMMB28TwOY_QbEVIGLzrlqs_a3iddRXp74WNVVtD4-DmyIW7eOh-r8vuuMGgOgfi3hazdBa-cndL9nl_ZRyDlHK1yvBZ3qprFMTFYPth6xUFSdntaO1TW_85j_OyXEVWhG3nfHSRzE3kkdw8bRmZ1eimCKjgzHOGyNINJ05KqbXTeegRJ3-xTpK0PoJ1JSlVRhZOMJY37cRPHTTxQPhcF_o5Jdb_VD8Z7BGeDqVboXVHbKJ15lGmRiyyvY37AO-KM0dtD87jvrqbsnl-ML4OvMPCbQ7vqZKLMNjzNE2jX6rfuSU8IuAqLCTGA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "2 years developing w/ReactJS and Redux and Typescript.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "1",
+        "subSegment": 31,
+        "executive": true,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "ee0115aa5c460aa94643f673d300f9",
+        "title": "Front End Developer Angular 2+",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer-angular-2/of-iee0115aa5c460aa94643f673d300f9",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-03-29T10:58:00.000Z",
+        "updated": "2019-03-29T10:58:00.000Z",
+        "author": {
+           "id": "837451524527205330853835152002",
+           "name": "GRUPO NS",
+           "uri": "https://ns.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/27/27841656-4fe3-40de-b716-2bd240128d33?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM5NjQsImV4cCI6MTU3MzAyOTk2NCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzI3LzI3ODQxNjU2LTRmZTMtNDBkZS1iNzE2LTJiZDI0MDEyOGQzMyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.X8VojJmqQZhkVKXMdJWBPw4DPLE1EIVR9yqXWX8ebuCkdC3mVNYEILZMGady8VcLE3HotWk_If_jTJiiFwUpZJUiRq0FODRNjG6xZ9MxrEf0JAgdavEPxNliHco6gZzeBgljFwJV3LKiO39YjhtpCQDzTeIsOKbcfmdc5b-FByz5bINDbX9HG6KWgS8kfX42VwgS6fGYOJL4eOYkVXSqyPaEeVzF4apTe07zoaTpi2EYvqh0nT16W2MHKou91HKjUdRH6JopL10y2eYySYIF3L2Sswuuvt1ogeGUSzcP0JAAX7xOPq8OwWM0pyL8LYdZ5ZWIzO2EBK4MsE8jwBqY4A&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Angular (todas las versiones posibles, al menos a partir de la 2); (conocimiento principal) - HTML5, CSS3, jQuery, Ajax...  - IDE: Visual Studio Code, otros...  - Diseño y arquitectura: Enterprise Architech, UML. - QA: SoapUI, JUnit, Postman, Sonar, Selenium. - WebServices: API Rest, SOAP (XML, JSON).  - Control de código: SVN, GIT.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "24.000€ - 33.000€ Bruto/año"
+     },
+     {
+        "id": "233218a8984b36b05200d2c77deeba",
+        "title": "Front-End Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Alcalá De Henares",
+        "link": "https://www.infojobs.net/alcala-de-henares/front-end-developer/of-i233218a8984b36b05200d2c77deeba",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3110,
+           "value": "Gestión de proyectos"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-03-28T08:10:10.000Z",
+        "updated": "2019-03-28T08:10:10.000Z",
+        "author": {
+           "id": "66565348495653771119819007255494403566",
+           "name": "Mobiground Software & Technology",
+           "uri": "https://www.infojobs.net/mobiground-software-technology/em-i66565348495653771119819007255494403566",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/42/4228aab9-393c-4396-ab28-f772d5706335?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTY1ODIsImV4cCI6MTU3MzAzMjU4MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzQyLzQyMjhhYWI5LTM5M2MtNDM5Ni1hYjI4LWY3NzJkNTcwNjMzNSIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.Rii89vqqSiZ9fbIxLhs738k1-b1EEavXm6D-6njfLlCqgqNKHfJKXbzja0ZlwfuLwVQ7qk-oMSdCZmjmWiYw8QL492KlQ9jXJj-B3fKyQKZKTOHE-k2Pj_VMuWZVXETnBD90Pxn8u1ZsJXx41p2vM6BoG37iuwxrA-HxU9l2xiN4M4-9iqvuRK_6ADb4Ja_2AmimOssjnmLbAufmgJSn81ig09OmPGz_P7_1kNAt6_0ceaXMMhwNrPyrDKwob7wicMP1MY_TdKrQCEFbk4hm2pyhf75HPM28E2QEfsNIoLxc1dRuSni8aqeVbxeN8gH6XF1ZWsMYl4CrjnQ3Qc3reQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Mínimo 2 años de experiencia desarrollo de aplicaciones/webs front-end con javascript - Mínimo 2 años de experiencia en maquetación css de interfaces - Experiencia con algún framework basado en arquitectura de componentes ( angular, react .. ) preferiblemente Vue. - El ecosistema de desarrollo front-end actual no tiene secretos para ti: Node packages, transpilers ( babel ), bundlers (webpack), task managers, CLI ... - Autoformación continua respecto a tecnologías y aquitecturas de desarrollo usadas en la plataforma actualmente ( flexbox, ES5-ES6, Vuejs, Node ...) - Idioma Inglés: Suficiente nivel para poder tener conversaciones técnicas por escrito.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "a33c02b4b74fddac8d5cb5f5e18076",
+        "title": "Junior Front End Developer",
+        "province": {
+           "id": 31,
+           "value": "Lleida"
+        },
+        "city": "Lleida",
+        "link": "https://www.infojobs.net/lleida/junior-front-end-developer/of-ia33c02b4b74fddac8d5cb5f5e18076",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "published": "2019-02-27T13:38:00.000Z",
+        "updated": "2019-03-27T15:30:02.000Z",
+        "author": {
+           "id": "98505356484749658879782019273897008387",
+           "name": "AXON WEB SL.",
+           "uri": "https://www.infojobs.net/axon-web-sl./em-i98505356484749658879782019273897008387",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en puesto similar y conocimientos demostrables sobre Front End Development.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "13",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "2015a502ba49bfb6041f3eb146356f",
+        "title": "Front-end developer. Ref 411",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer.-411/of-i2015a502ba49bfb6041f3eb146356f",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "published": "2019-03-25T16:13:07.000Z",
+        "updated": "2019-03-25T16:13:07.000Z",
+        "author": {
+           "id": "8553524532107130214855453350",
+           "name": "M2C",
+           "uri": "https://m2c-consulting.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/30/30a08727-4cdc-4184-8c46-35e1cfe807ac?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQ4OTksImV4cCI6MTU3MzAzMDg5OSwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzMwLzMwYTA4NzI3LTRjZGMtNDE4NC04YzQ2LTM1ZTFjZmU4MDdhYyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.W-9X6CY-Oy9IA_4Iuzr01nKxeRKLHrmUcYxWk_Kua7oh_uddCgiF7gFpZ0qyDBqo3QJLD1vA82w0bPVbLGJkKFDwXLqGZM4JQCWyhFXRbQyhcNfI-l27cY4RGl9yHh9MCWp5KwzQO_LFSR5xQtnOo_StgbPs2lJJthnGgdN5oLcJ_6on5Z7Sf65MrhwUCVRKRIsgWmWwR6yKATefnvqi0xtVOYKwRVxXCMjVZgneBgcZB6iVnL80SKvoY9HLTDwo89GfkB_d7ysS9WVgPECNM59a0euTTNO16xyno21AUSlBJgccurJeXFmm3BeD-OqOWob7HIzggdpix8PVQ5ySuw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Qué necesitas saber? Requisitos mínimos - CSS - CSS3 - HTML5 - JavaScript - Angular - Bootstrap - JQuery Requisitos Deseados: - JSON - Nodejs - UI/UX - Qlik Mashup",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "24.000€ - 30.000€ Bruto/año"
+     },
+     {
+        "id": "9b13813ab2439b8e13575ca4f01337",
+        "title": "Front end Developer Senior",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Cugat Del Vall??s",
+        "link": "https://www.infojobs.net/sant-cugat-del-valles/front-end-developer-senior/of-i9b13813ab2439b8e13575ca4f01337",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-03-20T14:51:45.000Z",
+        "updated": "2019-03-20T14:51:45.000Z",
+        "author": {
+           "id": "720cec0ef84c16ad7487861b241c30",
+           "name": "eMagister",
+           "uri": "https://www.infojobs.net/emagister/em-i720cec0ef84c16ad7487861b241c30",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/28/281b65e0-befa-465e-9ac3-509c57862f40?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDc4MDg2MTcsImV4cCI6MTU3OTM0NDYxNywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzI4LzI4MWI2NWUwLWJlZmEtNDY1ZS05YWMzLTUwOWM1Nzg2MmY0MCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.iMWytBIgQsclCBVxRjT_qjZfVxx3Lz3JvQNhIP9BdfmPpUaWKVtq6u7FItFGlEMI1ZuSF8Owaui8vsUAUzPXJfgF3X1f0g_JXYZxC6auz7h0RzB7A2cMgAWFQvIbglGEl6TUhhgKXMmBX_1BbcDDuGiCPM7yo9V9SoXYvmEz_evJUpr4TWukiq-PlUozTPJl3qGSnqRtrO6v0xRrbBVmedquitNMiImIJ78h15BqK9UQ5mIcP0vth_RgyzY-7SGISf6-Wro2ifAnrzIG79QHAxdQomOuJDHMLYuL_UmGQB9FIu6s26Wqap6rOIJ6sPlFQmIGv8WASn6uuEnB5xB3fQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia con frameworks MVC (y otros) de JavaScript como Backbone, Angular, etc - Experiencia con pre-procesadores de CSS tales como SASS y LESS. - Se valorará experiencia en software de gestión de versiones como Git o SVN.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "0f42185be3498faf066987e1fb1385",
+        "title": "Front End Developer for JLL (Malaga)",
+        "province": {
+           "id": 34,
+           "value": "Málaga"
+        },
+        "city": "Málaga",
+        "link": "https://www.infojobs.net/malaga/front-end-developer-for-jll-malaga/of-i0f42185be3498faf066987e1fb1385",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 140,
+           "value": "Licenciatura"
+        },
+        "published": "2019-03-06T12:08:14.000Z",
+        "updated": "2019-03-06T12:08:14.000Z",
+        "author": {
+           "id": "98575152514849677375762015233918414692",
+           "name": "CIKLUM IT SPAIN SL",
+           "uri": "https://www.infojobs.net/ciklum-it-spain-sl/em-i98575152514849677375762015233918414692",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/9d/9dfe4de4-1fe4-4446-8ec0-a8cdd37439bc?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1Nzc5NTIsImV4cCI6MTU1NjExMzk1MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzlkLzlkZmU0ZGU0LTFmZTQtNDQ0Ni04ZWMwLWE4Y2RkMzc0MzliYyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.NWDQiuuWOrStiAukltzTfVaX5a-YI5y47WFp3cagC8ku9YaHjA1hNTLRyOZu15LIJZoM6Z3yJY_EFnVxJ6nwVWb2osPdWgd1z4US-o9RAZXsRpw4XYUGTemXv4ateJmzDo_aeqY0R4x0ERNE7OMMmSPMmbxfbDt2t7FcyC5O8IsCnzvd3Bl6EXPYDt4HWhkRUBz-hJRjmxVxzmGeXD-5OH7BCV0HGiMfroszT5MlHAKuM0iIesuO3xSEDdVZwLtS6i58Df7HuZpwtAYmimQe7gTPhTEfnNXczL1d6wwKeQGdkaTrAJSUAy1akT0PcYbcmZ1z_IkkNpxf_nE76MQybQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "38c3f96fc643c48d12d4955a9706e1",
+        "title": "Front-end Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer/of-i38c3f96fc643c48d12d4955a9706e1",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "published": "2019-02-01T12:17:39.000Z",
+        "updated": "2019-02-01T12:17:39.000Z",
+        "author": {
+           "id": "98565553565052651141091018264882900682",
+           "name": "Armadillo Amarillo S.L.",
+           "uri": "https://www.infojobs.net/armadillo-amarillo-s.l./em-i98565553565052651141091018264882900682",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/e7/e7057922-3464-48bc-ab15-fafd70350df0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzI2MzIsImV4cCI6MTU1NjEwODYzMiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2U3L2U3MDU3OTIyLTM0NjQtNDhiYy1hYjE1LWZhZmQ3MDM1MGRmMCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.Tysyc1iW6KCO-yNomO-qiFqjY6NVgF_DGA59xysrIuKU3p7JwXMk-5QgHGzmGBScOLJrd0kIV0QWa2kHC8CLjBts8PS0rtcBxkrRIeahWLVXoIbXKqre0GOiWsm4mAeCmMIKKBDTMHzqooqz73jWFMGD2wVgXuhr1iJQ92op0iSNkmbIo4DitKYPZK69EXTts6JjoQK7esSM-56jXanMcuPZpOUAAsDJ998V5DGcvn0-0aUdDTHhlvITQvDGF2wI4lu5NBFCdltcW-NPVvqn2A0qwu0ZyRrZxMZeixvXRDDBzniguSw8Oc7npn2z6WLYv-TjtcHR2jhc9t2nDHQMgg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia: -Como Programador/a de Front-end. -HTML -CSS -LESS -SASS -Bootstrap -Responsive Web Design -jQuery Se valorará: -Un portfolio de tus trabajos realizados -Desarrollo con Ionic Framework -Experiencia en desarrollo de backend. -VueJS -ReactJS",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "10",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "1b4da7ad2c482abe9c32b9d49f72e6",
+        "title": "Front End Developer (Angular 2 / 7)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer-angular-2-7/of-i1b4da7ad2c482abe9c32b9d49f72e6",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "published": "2019-03-29T11:09:05.000Z",
+        "updated": "2019-03-29T11:09:05.000Z",
+        "author": {
+           "id": "77949524527003680493715342911",
+           "name": "KEAPPS",
+           "uri": "https://keapps.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/19/19d78f22-5012-4bd2-b0f2-ab3ffb3b7b26?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODIzMTMsImV4cCI6MTU1NjExODMxMywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzE5LzE5ZDc4ZjIyLTUwMTItNGJkMi1iMGYyLWFiM2ZmYjNiN2IyNiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.QFnrgur8NxZKa3u64jNtuSjsPEL4iaZAqnMS_8lt4g3-tQYMpY00aD2lCTog93iK53nPXnC35ae2vYkPlcUsOkOsFTCUAzB-vfdwKWV2k7jmCLjtC2HXZkXRg_lyEOF7gOmumAiH4g3bOadHrxktKSTfOl9MjBrBqYYDpapQXx_xIYeYxAYza4_uQzo51USGOFI1bJu3TEHGlFXy7UyMlgREgF4zliT-TfTBmkth8C0ll1HDCENAdPUl-yWdnlyjApPUKLMcU0uqlSzb4HAht_08CJUi6silt71POAZzU-nnHD_Fr2rGaeGTRlIz_AwNsgur3WoMIPHg6KinM8UIKw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en desarrollo Angular 2 o 7 a partir de 1 año ( perfiles Junior) Experiencia en analisis y desarrollo Front End con Angular durante al menos 2-3 años ( Perfiles Senior) Experiencia con Angular 7 o similar.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "4cbb69fcca4f80bc31b2acf70abdf0",
+        "title": "Front End Developer .net",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/front-end-developer-.net/of-i4cbb69fcca4f80bc31b2acf70abdf0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 6,
+           "value": "Intensiva - Mañana"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-03-07T19:19:01.000Z",
+        "updated": "2019-03-28T20:30:01.000Z",
+        "author": {
+           "id": "98545550494850667365663019077187201102",
+           "name": "BIABILITY DATA S.L.",
+           "uri": "https://www.infojobs.net/biability-data-s.l./em-i98545550494850667365663019077187201102",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Al menos 2 años en Front End aplicaciones .net . HTML,CSS . Javascript. ASP.Net. MVC. Jquery. Bootstrat. c#. Sql Server. VStudio.Git,Subversio,Bitbuket. Entity Framework. TFS Se valora adicionalmente:.  Telerik, Devexpress o similar .  Webforms.  Linq.  Solid.  Experiencia en programas CMS, como Wordpress.. Net Core. Entornos Backend y/o arquitectura bbdd- Maquetacion emails a pdf",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "33",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "33.000€ - 36.000€ Bruto/año"
+     },
+     {
+        "id": "1ed90a042c4a5393723c792d0c2ba0",
+        "title": "Front End developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer/of-i1ed90a042c4a5393723c792d0c2ba0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2019-03-28T12:13:01.000Z",
+        "updated": "2019-03-28T12:13:01.000Z",
+        "author": {
+           "id": "962955524526522402530125045903",
+           "name": "UST Global España",
+           "uri": "https://ust.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d5/d55e38ab-ff07-4a2f-bed9-a2c778dfaf92?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYyMTYsImV4cCI6MTU3MzAzMjIxNiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2Q1L2Q1NWUzOGFiLWZmMDctNGEyZi1iZWQ5LWEyYzc3OGRmYWY5MiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.N-blrztiKTRXca-_LD_R8PX98qaGAkRMmyu-DK_wWz_wFTJhJy5iedzRez5BUUw2ov_Shb6PBI7j86rFiLoFqX6Uo32QCGoQgjiYvBc6YSqsqk57e-zRsc6iHzcND8MxbRj6U_0zOelKfw2d4K5SqOcvhmacTC9f6NZ1VyYwqvnhwnTshncr6DBJpjVKdntRBHw4ESlVLd9-Saxr9sm1LF1ktXctv5qGprWXLR1uGc9IvchbWAIwaC5TNezn411ts-0lF_VsTn7zq2_yGG1-475VCDzzppt1pqenYj7RNyNAIh6wGKZLudqI6PPGoTRiOwgmRszLlIXtyxpdYlLqEg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "3 años de experiencia como Frontend Developer -Nivel alto de React Native, Ionic -Nivel medio de Angular y Vue -Backend: NodeJS, API Rest -Control de Versiones: GIT, GIT-Flow",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "88cb905a3e469f866184e5dac3d32a",
+        "title": "Senior Front End Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/senior-front-end-developer/of-i88cb905a3e469f866184e5dac3d32a",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 10,
+           "value": "Autónomo"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 320,
+           "value": "54.000 €"
+        },
+        "salaryMax": {
+           "id": 490,
+           "value": "64.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-03-14T10:55:39.000Z",
+        "updated": "2019-03-28T11:30:02.000Z",
+        "author": {
+           "id": "98565651495348877375733019144160504002",
+           "name": "WIKIFACTORY EUROPE SL.",
+           "uri": "https://www.infojobs.net/wikifactory-europe-sl./em-i98565651495348877375733019144160504002",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "User experience design and user interface design expertise Technical capabilities in HTML, CSS and modern Javascript Capability to create design systems for the wider team to utilise when creating interfaces Good communication skills and a team oriented approach Enthusiasm for building infrastructure for the next industrial revolution",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "43",
+        "subSegment": 31,
+        "executive": true,
+        "salaryDescription": "54.000€ - 64.000€ Bruto/año"
+     },
+     {
+        "id": "5f632a8e2142f7aad0138fea1b28f1",
+        "title": "Senior Front-End Developer (Tenerife)",
+        "province": {
+           "id": 46,
+           "value": "Santa Cruz de Tenerife"
+        },
+        "city": "Santa Cruz De Tenerife",
+        "link": "https://www.infojobs.net/santa-cruz-de-tenerife/senior-front-end-developer-tenerife/of-i5f632a8e2142f7aad0138fea1b28f1",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 265,
+           "value": "21.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 160,
+           "value": "Otros títulos, certificaciones y carnés"
+        },
+        "published": "2019-03-27T16:57:20.000Z",
+        "updated": "2019-03-27T16:57:20.000Z",
+        "author": {
+           "id": "1357d0dd-3b10-4a3f-9ce2-3e5cdf091d0a",
+           "name": "Detalles proporcionados a solicitud",
+           "uri": "https://www.infojobs.net/detalles-proporcionados-a-solicitud/em-i1357d0dd-3b10-4a3f-9ce2-3e5cdf091d0a",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "5+ years HTML5 & CSS3 expertise 5+ years JavaScript jQuery expertise 5+ years Experience with responsive UI frameworks such as Bootstrap or Foundation",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 36.000€ Bruto/año"
+     },
+     {
+        "id": "adb6888df14278b98498816caa9ab4",
+        "title": "Senior Front End Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "San Sebastián De Los Reyes",
+        "link": "https://www.infojobs.net/san-sebastian-de-los-reyes/senior-front-end-developer/of-iadb6888df14278b98498816caa9ab4",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 960,
+           "value": "40.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-03-26T17:03:01.000Z",
+        "updated": "2019-03-26T17:03:01.000Z",
+        "author": {
+           "id": "9664852452652250253012575553",
+           "name": "PROFILE SOFTWARE SERVICES",
+           "uri": "https://profile.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/5a/5a96194f-6917-41a8-b3cd-ae87800a9136?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTQ1NTksImV4cCI6MTU3MzAzMDU1OSwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzVhLzVhOTYxOTRmLTY5MTctNDFhOC1iM2NkLWFlODc4MDBhOTEzNiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.SSuAnhwxsSWFUhg0qBjuuNiXftXuE7Hp0pI1rfXd3YWG8J_CvT-3xoIV5y_e-BD3rYzXu_PfIMriQ344CazEYUhubYayYJ_FVTo9Y2TbECm9z3E2vBeLNGRmBNvXt2yb3K7tJVxsKWt2FA2Bam90UyxZTDoYV2q8YQPtghiL_dHgTOAZ9FkUshS-CR38gVx5aRSuzLq2iXLZWGT6bBSXIPH9RlepsejwXkWrq3kg1I816RPa5e6FF8Xq1hdfSHqUnzWjvFrpi96LbMSUE5-lcnmlDK4kXY2udtVEms0lu9WnXrrSFqV0UEgn7-7NwexPvDfF70LChT7qmEDEVbmzEg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Ampliamos equipo con la incorporación de un/a Desarrollador/a Senior Frontend La persona seleccionada trabajará en proyectos muy atractivos tecnológicamente, donde podrá aportar ideas y explotar al máximo su creatividad junto a importante empresa de media y comunicaciones. Requisitos: - Experiencia en responsabilidad técnica en proyectos. - Amplios conocimientos en Javascript (al menos 4 años de experiencia). - Experiencia demostrable en React - Experiencia en desarrollo de aplicaciones SPA con al menos uno de los siguientes frameworks: Backbone o Angular JS - Uso fluido de Git y Gitflow - Conocimientos en (Jasmine, qUnit...) - GRUNT, SCRUM Ofrecemos: - Contrato indefinido. - Plan de retribución flexible (Seguro médico, guardería, formación, transporte, tickets restaurante) - Bono Amazon cumpleaños - Plan de ayuda a la formación - Ubicación: San Sebastián de los Reyes - Teletrabajo 1 día a la semana - Horario: L-J 9-18h // Viernes y verano: 8-15h",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 40.000€ Bruto/año"
+     },
+     {
+        "id": "20d7f4dfb945cca903ec872a993382",
+        "title": "Front End Developer",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/front-end-developer/of-i20d7f4dfb945cca903ec872a993382",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 260,
+           "value": "18.000 €"
+        },
+        "salaryMax": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "published": "2019-03-25T14:48:11.000Z",
+        "updated": "2019-03-25T14:48:11.000Z",
+        "author": {
+           "id": "98545051555649731109819015034505200968",
+           "name": "InboundCycle, S.L.",
+           "uri": "https://www.infojobs.net/inboundcycle-s.l./em-i98545051555649731109819015034505200968",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Son imprescindibles las siguientes habilidades/conocimientos para ser considerado para el puesto de trabajo: - Buen nivel de inglés oral y escrito. - Buen conocimiento de HTML y CSS - Conocimiento de JavaScript - Conocimiento básico de PHP y MySQL - Experiencia con la creación y maquetación de templates de Wordpress - Además, también se valorarán positivamente conocimientos de jQuery, Git, HubSpot, APIs, Servidores, UX y diseño.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "18.000€ - 24.000€ Bruto/año"
+     },
+     {
+        "id": "26382a7775441cabfd9facf3d07d4e",
+        "title": "Desarrollador Front-End Developer",
+        "province": {
+           "id": 21,
+           "value": "Granada"
+        },
+        "city": "La Zubia",
+        "link": "https://www.infojobs.net/la-zubia/desarrollador-front-end-developer/of-i26382a7775441cabfd9facf3d07d4e",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 5,
+           "value": "Otros contratos"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 160,
+           "value": "Otros títulos, certificaciones y carnés"
+        },
+        "published": "2019-03-11T13:44:33.000Z",
+        "updated": "2019-03-25T14:30:02.000Z",
+        "author": {
+           "id": "98505653485850861011149012273360102822",
+           "name": "Veridata",
+           "uri": "https://www.infojobs.net/veridata/em-i98505653485850861011149012273360102822",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "JavaScript (ECMAScript 5 y 6), TypeScript, AngularJS y Angular.io HTML5 y CSS3 npm, node.js Cordova e Ionic.io Rest y RestFull",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "22",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "7d4f510fbd4621a7db9ecc3828fa3e",
+        "title": "Junior Front-end Developer - Internship",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Alcobendas",
+        "link": "https://www.infojobs.net/alcobendas/junior-front-end-developer-internship/of-i7d4f510fbd4621a7db9ecc3828fa3e",
+        "category": {
+           "id": 80,
+           "value": "Ingenieros y técnicos"
+        },
+        "contractType": {
+           "id": 3,
+           "value": "Formativo"
+        },
+        "subcategory": {
+           "id": 3049,
+           "value": "Industrial"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "published": "2019-03-22T13:39:34.000Z",
+        "updated": "2019-03-22T13:39:34.000Z",
+        "author": {
+           "id": "963952524526202050633215744847",
+           "name": "Solera Global Data & Content",
+           "uri": "https://www.infojobs.net/solera-global-data-content/em-i963952524526202050633215744847",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/06/06eedd30-985c-4d0c-9f7d-2824b891d133?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzUwNTQsImV4cCI6MTU1NjExMTA1NCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzA2LzA2ZWVkZDMwLTk4NWMtNGQwYy05ZjdkLTI4MjRiODkxZDEzMyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.ctixhcLc2gDxxfWqbj8HfHw90RadYKOzb0qNkFW4My6PSUl8EvUA71LjE2_-kL4zeNf5f5r2una4C99TUoYWR38oxzOZYNNm-YHD6nElK7FGGv5Kq9Uked9npbsca_My6yufMTa5rShSOIx0oPDf4Aj8l-_5KxsKfE2GkkNl3gusDe5m3GAfCsb8ZFrfMWZ5TrMKcjdaWFGstGt6UZxzEoy3rSz7K2hFaws7BOCiaLjIQQVXeAekZaoRCStKN9RINtAOp78qNoc9MlH0cYCdzzFMsgrNRjo1_qkvXD1XgVeZjfcc-_b-38iNd4TAne2nQuCzxlsD1w3A2mZlfNeHeA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Educated to degree level from a numerate discipline. Must have: - Knowledges in Backbone, React, Angular JS or another JS framework. - Proficiency in: JavaScript & jQuery, HTML5 & CSS3, SASS or LESS HTTP, REST, JSON, Webpack, GIT / BitBucket. - Good level of English  & Spanish, both written & spoken. Nice to have: - Java - Cloud native - Scrum",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "9",
+        "subSegment": 21,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "1d4793eb26413a862b59c198bc43e0",
+        "title": "Web Front-end Developer",
+        "province": {
+           "id": 12,
+           "value": "Cádiz"
+        },
+        "city": "Cádiz",
+        "link": "https://www.infojobs.net/cadiz/web-front-end-developer/of-i1d4793eb26413a862b59c198bc43e0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2019-01-25T08:24:38.000Z",
+        "updated": "2019-03-22T11:00:00.000Z",
+        "author": {
+           "id": "66494952575549801081172008123587108454",
+           "name": "PlusNet Solutions",
+           "uri": "https://www.infojobs.net/plusnet-solutions/em-i66494952575549801081172008123587108454",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/c4/c4819ebb-1ed1-4ce5-836d-24d92da17742?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzM4NTIsImV4cCI6MTU1NjEwOTg1MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2M0L2M0ODE5ZWJiLTFlZDEtNGNlNS04MzZkLTI0ZDkyZGExNzc0MiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.lxNpX8Fq5T1GJp0eosoXw1npPfyTuM_fd247Oy46hiWWaQaJm0ovzjx5DCy28knp9Q2cactJQ_KmbbWV4OQfxiHXygdoDCLb0h5_SokoGQCc5Jrna4XqQlltoou1B4nWX_Y3k-scI_NHAU824tDoBOhEBWis-KWLWy2NFY9PPV5Q7U79v6M5q4raE9tkXcd9EoQTvQUdrLrT74cqb5LIPBab-LRSLxp0-RPLrvZ60q1OFQlyDZSefuDQHpu2rj2gvFSJUKTkZBYZVtjdzMoQFvq0zps4Ap2yTu5URkXAf5Cwncz3NWNtCCcftWm4zOzp5iQ26Amx4b7Ksr7oWGJINQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Conocimientos y experiencia al menos de 1 año  con  Angular y/o AngularJS. Conocimientos y experiencia al menos de 1 año con   HTML5, CSS3,, JQuery, Bootstrap, etc.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "80",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "337335faa44dffa9e64862aaf2ef58",
+        "title": "Front-end Developer (React)",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/front-end-developer-react/of-i337335faa44dffa9e64862aaf2ef58",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-03-14T09:45:16.000Z",
+        "updated": "2019-03-14T09:45:16.000Z",
+        "author": {
+           "id": "967551524526202450553215455245",
+           "name": "MNEMO",
+           "uri": "https://mnemo.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/99/99f91783-6d11-4c7a-8e3d-1ff88770d992?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTcxMzcsImV4cCI6MTU3MzAzMzEzNywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzk5Lzk5ZjkxNzgzLTZkMTEtNGM3YS04ZTNkLTFmZjg4NzcwZDk5MiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.fS_EtBKYX_UViVzJKZSczpVmneZufQPH94iQ8gpdYU5qb2kZaECmvl5dLmqAs2L-BX_BPeaWzDZx8OsmeLG0o-gWxaU_MKE-tNqA5QieIKhr7JbMsms1OKSBfuEINyTSxeO101PpI7M5eIGA95VFTgobCK9XzwdkH9FpCbCUeeal_JN3V1lUoShKTLo4qUL1ClZRi71kFd-wlTn2D1vP2qXI_Ov_vbXpo_qfYFuhfL4SS2gOZFEtrL2tNkJdCPw9bA_Y92fueoM1EhVud36183jYs2HWBYTps0hgY5rdX5bCTrKA9wz0pMBYmANbGDGOyEFu0EKkFS0QkBthotSetg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Experiencia en desarrollo de proyectos front-end. Stack tecnológico: - JavaScript - Html5 - CSS3 - React",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "f4ef0a7a3c405fb3370f4ebbad2ad7",
+        "title": "Front End Developer UX/UI",
+        "province": {
+           "id": 49,
+           "value": "Valencia/Val??ncia"
+        },
+        "city": "Gandia",
+        "link": "https://www.infojobs.net/gandia/front-end-developer-ux-ui/of-if4ef0a7a3c405fb3370f4ebbad2ad7",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 35,
+           "value": "Ciclo Formativo Grado Medio"
+        },
+        "published": "2019-03-07T09:41:28.000Z",
+        "updated": "2019-03-07T09:41:28.000Z",
+        "author": {
+           "id": "838f70bdb14bba90ddc302ab348dda",
+           "name": "Spring Professional IT",
+           "uri": "https://spring.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/fa/fa992a2f-57ba-4024-ac86-7c6a52d339be?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTY5NzIsImV4cCI6MTU3MzAzMjk3MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2ZhL2ZhOTkyYTJmLTU3YmEtNDAyNC1hYzg2LTdjNmE1MmQzMzliZSIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.XJlpM0t5IuBzGhqx3DpckvkzFEsxviymTEOrkB6WzS6jXgZqYk-GjiPZpXRD3z35Btk7us9juE7gtwOdb7kwlXuu8qRVplFveGEAcNRAdchLUozEL9CKR9nHORih8IgN27FG7jWYPDm2HXGmn-bW3Z_CPFx56TNDXoyFWJSNIa2K-RDcq2fzHwtmmuz470zruhbkyQfYBP8i-DCnb3WJfRJ0kDM6a_GPrY7jRg6rbaXrJACg0V1uTkdxGeSWnn-mhPZag51HF165x_U9XnturqMBmlSvUQRkk3S7jtMEVbCb4GCGKTMxoe6-eX66qMVk-HTVlUlQV_vNGJRT0zo_ag&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "877f810515429ba421eedcf4434239",
+        "title": "Front-End Developer con Frances",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/front-end-developer-con-frances/of-i877f810515429ba421eedcf4434239",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 0,
+           "value": ""
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 50,
+           "value": "Bachillerato"
+        },
+        "published": "2019-03-04T16:00:43.000Z",
+        "updated": "2019-03-04T16:00:43.000Z",
+        "author": {
+           "id": "baf6633b9e4119bbf2f688e9efca08",
+           "name": "Sopra Steria - Profesionales con experiencia",
+           "uri": "https://soprasteria.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7b/7bdf1b48-8994-4c96-8a7d-cfd6d2239b0d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTM2MDUwMDYsImV4cCI6MTU4NTE0MTAwNiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzdiLzdiZGYxYjQ4LTg5OTQtNGM5Ni04YTdkLWNmZDZkMjIzOWIwZCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.MHcjcRQPbMpjv9jQEfHhYtN2on654f_nxh4BVIm0VpgvuhY6DOHVZhWnkobssPXdBeAbRthIEo1lFYd194kKEctpo-TfYOM3AY_sVMPcvauvlnF1j6dnrc0BvydQHxT_jWdzH4i_di_v83whXteG3eG1ru0s4YOvJ514vwSzhDfexeP1_OHXLho37CEUD00KtB5_yBMR58D1UtxVG40H6QBdO_YTom-PkbTYVXpUVLGJVOQYvzGjMNWZEgITjFSaVf_xvAZbF_Si9On6xILyd7f9pHhviM29TPDemG-zxnOz39Lqkp8P-TcjXuWNHe9R_CbBKgBfrfklSji41NJtXQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "Experiencia con Javascript, CSS y HTML Nivel de francés medio Capacidad de trabajar en equipo",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "cb00c532224bbca904c11a4ffb098d",
+        "title": "Front End Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Pozuelo De Alarcón",
+        "link": "https://www.infojobs.net/pozuelo-de-alarcon/front-end-developer/of-icb00c532224bbca904c11a4ffb098d",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2019-02-05T11:32:40.000Z",
+        "updated": "2019-02-05T11:32:40.000Z",
+        "author": {
+           "id": "3bd816397c43289b7287fa3b7886cf",
+           "name": "Experis IT",
+           "uri": "https://experis.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7a/7a4d17a9-a354-4024-aae6-e2b20324ac76?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDgwNzEwNjEsImV4cCI6MTU3OTYwNzA2MSwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzdhLzdhNGQxN2E5LWEzNTQtNDAyNC1hYWU2LWUyYjIwMzI0YWM3NiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.l090AKZVvJL97bL390ntF8L4wOwyY6U-n_4lxlpX_Tp2G21J71-U36XUBK2jg9Nqlo-e61oNw0oqe2VBK04TD4RQmvryA4uxrp24ANC-XRadRVhTM_d5ppcgTU3esIdSUFQ2_RmQT12A2Kef0FYHjXTf8boWNyAj84GmkNu6q4oIWAxTfjiDsauHY7guvw5akAJTu_D9yTrHi5DJG6CrWyFYziqWu-4gsnopEHSZKT-MDuW0mb4X4Ooky3VTNIuZR_AusrhnH-5dUqoX9y15L7fi1cnw9yo2-YIRDP7ZEChS3mKz_MFAH6rhfEzLwsZu4fxxtceyBAs-D_j6_CHpSQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "FrontEnt Developer o   Conocimientos requeridos - JavaScript -  Angular/React -  Plataforma Azure DevOps -  HTML/CSS -  JQuery -  Git Conocimientos deseables: - SQL -  HTML5 -  ASP.Net & MVC.Net -  C#",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "6",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "ded8b1663c4c50b64252d09c996c3a",
+        "title": "Front-End Developer",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Sant Cugat Del Vall??s",
+        "link": "https://www.infojobs.net/sant-cugat-del-valles/front-end-developer/of-ided8b1663c4c50b64252d09c996c3a",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 170,
+           "value": "1.800 €"
+        },
+        "salaryMax": {
+           "id": 200,
+           "value": "2.700 €"
+        },
+        "salaryPeriod": {
+           "id": 2,
+           "value": "Bruto/mes"
+        },
+        "experienceMin": {
+           "id": 4,
+           "value": "Al menos 4 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "published": "2019-02-03T23:46:59.000Z",
+        "updated": "2019-02-03T23:46:59.000Z",
+        "author": {
+           "id": "98545457564355721111106017156187404081",
+           "name": "Honor-Time SL",
+           "uri": "https://www.infojobs.net/honor-time-sl/em-i98545457564355721111106017156187404081",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "19",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "1.800€ - 2.700€ Bruto/mes"
+     },
+     {
+        "id": "184ad5293c484783cf1b3a2b1a5c13",
+        "title": "Senior Front-End Developer",
+        "province": {
+           "id": 46,
+           "value": "Santa Cruz de Tenerife"
+        },
+        "city": "Santa Cruz De Tenerife",
+        "link": "https://www.infojobs.net/santa-cruz-de-tenerife/senior-front-end-developer/of-i184ad5293c484783cf1b3a2b1a5c13",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 265,
+           "value": "21.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 160,
+           "value": "Otros títulos, certificaciones y carnés"
+        },
+        "published": "2019-01-22T11:45:19.000Z",
+        "updated": "2019-01-22T11:45:19.000Z",
+        "author": {
+           "id": "1357d0dd-3b10-4a3f-9ce2-3e5cdf091d0a",
+           "name": "Detalles proporcionados a solicitud",
+           "uri": "https://www.infojobs.net/detalles-proporcionados-a-solicitud/em-i1357d0dd-3b10-4a3f-9ce2-3e5cdf091d0a",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "5+ years HTML5 & CSS3 expertise 5+ years JavaScript & jQuery expertise 5+ years Experience with responsive UI frameworks such as Bootstrap or Foundation",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "23",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 36.000€ Bruto/año"
+     },
+     {
+        "id": "1da25cb81e42d981682459c0351477",
+        "title": "Explora Europa como Java Developer!",
+        "province": {
+           "id": 527,
+           "value": "Chequia"
+        },
+        "city": "Prague",
+        "link": "https://www.infojobs.net/prague/explora-europa-como-java-developer/of-i1da25cb81e42d981682459c0351477",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 265,
+           "value": "21.000 €"
+        },
+        "salaryMax": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 50,
+           "value": "Bachillerato"
+        },
+        "published": "2019-01-23T14:28:50.000Z",
+        "updated": "2019-01-23T14:28:50.000Z",
+        "author": {
+           "id": "99122505249494957109663016213715802909",
+           "name": "mBlue Czech, s.r.o.",
+           "uri": "https://www.infojobs.net/mblue-czech-s.r.o./em-i99122505249494957109663016213715802909",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "What do we appreciate? - Demonstrable knowledge of JAVA development (from junior to 4+ years experience) - Knowledge other technologies like JBoss, Spring, Hibernate, Angular, Vaadin, SWL, MVC - advantage - English - communicative level - on daily bases - Willingness to relocate to Prague (Czech Republic) - EU citizenship",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "4",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 33.000€ Bruto/año"
+     },
+     {
+        "id": "41cc22aec647ba92c2f3fb83737a2f",
+        "title": "Diseñador Web",
+        "province": {
+           "id": 4,
+           "value": "Alicante/Alacant"
+        },
+        "city": "Guardamar Del Segura",
+        "link": "https://www.infojobs.net/guardamar-del-segura/disenador-web/of-i41cc22aec647ba92c2f3fb83737a2f",
+        "category": {
+           "id": 50,
+           "value": "Diseño y artes gráficas"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3030,
+           "value": "Diseño web"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2019-01-22T15:05:33.000Z",
+        "updated": "2019-01-22T15:05:33.000Z",
+        "author": {
+           "id": "98535255525753656784739014295936104881",
+           "name": "ACTIVA INVESTMENT MANAGEMENT, S.L.",
+           "uri": "https://www.infojobs.net/activa-investment-management-s.l./em-i98535255525753656784739014295936104881",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/fa/fa9c0573-449c-4ef9-99a8-66dfe6c9a867?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MzIwNzgxOTEsImV4cCI6MTU2MzYxNDE5MSwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2ZhL2ZhOWMwNTczLTQ0OWMtNGVmOS05OWE4LTY2ZGZlNmM5YTg2NyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.P_QY9P8pO3X9KTL6q3jVumNz8Prey1Lomz0JmFjocl6yVyNfdMtgKFte-mtKJI0DEa67yJ3iDvk9mLqoNu0J-3knLtDmOGhIX81d1nSQV-ZPxpSZjLO-XG4kQLe5f3nffmr7UPItvzkv5rbn82-SRyBD6uPh7NP7cJFL7Vqdk_82oG9VW4YYHg_MUY8N7epVOxwO4HAGafMCI67k6qeFq8t8YV89-jvfltSdjEdXVacxi5LzSxS9OnMbyhbBUiBruBzk7o7gyaPdl75jLK4o3MpRBxQD8_bzuKPKaTk7aUdN3NPgoj9m1GsagpoayKulpqeKW7OBqThmt93oADXIXA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Mínimo de 3 años de experiencia como Diseñador Web o Front-End Developer. - Una cartera de proyectos web/interactivos completados que demuestren trabajos y técnicas. - Don de estéticas y capacidad para hacer diseños UX y trasladarlo a aplicaciones interactivos/online a través el uso de Interaction/UX Designs. - Actitud proactiva y autónoma, en todas las etapas del proyecto. - Buen conocimiento de HTML5, CSS3 (Sass/Less) y Javascript y Diseño Web en general. - Photoshop, Illustrator, Code Editors (Sublime, Atom etc). - Preferiblemente con experiencia en el campo del sector de Inmuebles, Diseño de Interiores o Arquitectura. - Idiomas: español (avanzado), inglés (B2 mínimo).",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "2",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "26d4fdc7284ff1b1e092b11cc23816",
+        "title": "Analista Programador .NET / Desarrollador .NET",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/analista-programador-.net-desarrollador-.net/of-i26d4fdc7284ff1b1e092b11cc23816",
+        "category": {
+           "id": 180,
+           "value": "Otros"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3123,
+           "value": "Sin especificar"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2019-03-29T10:48:50.000Z",
+        "updated": "2019-03-29T10:48:50.000Z",
+        "author": {
+           "id": "807556524534104290635214955119",
+           "name": "SADE Consultoria Tecnica",
+           "uri": "https://www.infojobs.net/sade-consultoria-tecnica/em-i807556524534104290635214955119",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/02/02dfffcd-645f-4c0e-b811-1b67b03e1e9f?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzMyNDksImV4cCI6MTU1NjEwOTI0OSwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzAyLzAyZGZmZmNkLTY0NWYtNGMwZS1iODExLTFiNjdiMDNlMWU5ZiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.nOUiRC_rLvw7ULagp4S6ZvbnLrvU-ZOqGYB1m-GKWF5s42rWjfp41C1tl8iGQ3a4VNG6Dsga4RJALKkfOPxWsijAxLF_uRXYDQL190l2qrS7LLd4U1g_Aq-GExQ5gcUdmjCSxlLXdL56YUEmiKGFWGsuXuOHdL8nO_pucmQ-Uc8BA6Uzl2Mpp5pBzZLLaPTz4EccPl8hIXcbnHUGLFXvEfBTLYiWzC7wXseIPEZAG6ksw6ecAtR5Up1V-y20iKGDJPBGtDWfPz2mtwXfBE2ev-u64XfeUuWsBd7FF8F6cEoeUEJJuytUdNcl-hEYuvylJ_N4O_LkpHlHDE2ZmyJaJA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "1bd9775e7e4960a486e338bbdc2ebb",
+        "title": "FRONT END DESIGNER & DEVELOPER",
+        "province": {
+           "id": 29,
+           "value": "La Rioja"
+        },
+        "city": "Logroño",
+        "link": "https://www.infojobs.net/logrono/front-end-designer-developer/of-i1bd9775e7e4960a486e338bbdc2ebb",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 265,
+           "value": "21.000 €"
+        },
+        "salaryMax": {
+           "id": 275,
+           "value": "27.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-02-07T10:37:05.000Z",
+        "updated": "2019-03-28T14:00:01.000Z",
+        "author": {
+           "id": "98505453535356847269322019073939801571",
+           "name": "THE DEMANDA VALLEY SOCIEDAD LIMITADA.",
+           "uri": "https://www.infojobs.net/the-demanda-valley-sociedad-limitada./em-i98505453535356847269322019073939801571",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/6a/6ade21ae-39ff-4a20-accf-1e3bb1cf95c3?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDk1MzcxNzIsImV4cCI6MTU4MTA3MzE3MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzZhLzZhZGUyMWFlLTM5ZmYtNGEyMC1hY2NmLTFlM2JiMWNmOTVjMyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.CSEjimiGNsBeZMl-8L3ggqIXv_LGYc1UvDE_TIpcT9e6gj8rjC1Vd-fJ7aeBsg4ORDdgorunTkiel5K8qsB2wAWw80rJs7Zy-i6NBQMzvDrrKmWXtNUIVDP-lhcDasvXl3CuIDpv-8QiGqoC3vrIR3aEvfedFpV1bojCtxtTfCA8yUhcWJA_XsgTN8NTBkytEGX-DFhzAD1LmiZGxqs8WkqectW0IEXJIlRiHvhUOupuMLHridoFtT2gRRRkMm3YReziI9aP096NJ0Y5pseEHACVbKgxEjQKgmcevs9-ebIigtYk0GO3EjwMB4RiiTYUO-p4optqrU4rqXzVGTRJgg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "11",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "21.000€ - 27.000€ Bruto/año"
+     },
+     {
+        "id": "e52ec4aafd4a54ad9bac530424a4a4",
+        "title": "Desarrollador/a Frontend y Javascript",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-frontend-javascript/of-ie52ec4aafd4a54ad9bac530424a4a4",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 990,
+           "value": "45.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2019-03-27T17:48:55.000Z",
+        "updated": "2019-03-27T17:48:55.000Z",
+        "author": {
+           "id": "ec1b5a23e84dfbb532d210a4840c02",
+           "name": "Comunidad de Madrid - Serviguide BPO, S.L.",
+           "uri": "https://hps.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b5/b5d2fe7b-1d20-4d7d-8dbd-214af55139db?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzQwOTMsImV4cCI6MTU1NjExMDA5MywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2I1L2I1ZDJmZTdiLTFkMjAtNGQ3ZC04ZGJkLTIxNGFmNTUxMzlkYiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.WudulTNXoj7vF8xa6aazjAv4d0lKgT6LhOq3TUyOfahEbL-6t_WQpbxFZDDOxNa1oF2lRefbLgV-c8GoGYm67boc0incCfLehicexgzroqsMaW-oiGKXdTlqV3IgItf1DyeDEuniB93sad4k1CG4IkJlsQPkyxgs-N7tJh_XdWIHKQoZJH0egj7ay8NPcaP9LFrdelScSmcWf69CRZWlHWv_u2pF2ESNpySqeMFDe1ixqNSTFYk-y72MTzZbpBvx3JNxXRfLV2FHmNyF9mpvAlX4wKPCJbSDubo16Zaers6w_VEdItUv5xrQtP-ZieAoyuHpGCeBg_sHv7p_MW0bww&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "Requisitos: Javascript, Angular versiones 2-7, React, HTML5, CSS3, JQuery, Bootstrap..",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 45.000€ Bruto/año"
+     },
+     {
+        "id": "fef0cf60a04ac0aea7463b6187ec63",
+        "title": "Desarrollador front-end",
+        "province": {
+           "id": 51,
+           "value": "Vizcaya/Bizkaia"
+        },
+        "city": "Berango",
+        "link": "https://www.infojobs.net/berango/desarrollador-front-end/of-ifef0cf60a04ac0aea7463b6187ec63",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 280,
+           "value": "30.000 €"
+        },
+        "salaryMax": {
+           "id": 285,
+           "value": "33.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-02-20T15:25:24.000Z",
+        "updated": "2019-03-27T17:30:01.000Z",
+        "author": {
+           "id": "98575356515157698669782017094807200133",
+           "name": "EVENTISES INNOVATIVE SECURE EVENT SYSTEM SOCIEDAD LIMITADA.",
+           "uri": "https://www.infojobs.net/eventises-innovative-secure-event-system-sociedad-limitada./em-i98575356515157698669782017094807200133",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/73/73144bf7-028c-4e1d-8668-02f41bb5dcd7?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTA2ODA2MTIsImV4cCI6MTU4MjIxNjYxMiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzczLzczMTQ0YmY3LTAyOGMtNGUxZC04NjY4LTAyZjQxYmI1ZGNkNyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.ltqm75BZmjVrY_1f1Ar6TyLhPeJ650BcNZFrGR2Ym4JVrslxB3iHrF8JX8z3yFGX0VPfBt1avbXcaYDjnJtBuUykkcuLU8xhlRd3Jgf1bPLmKPyt0XKfNaqXKNpHKCHDN8Ux7dMW9oHhK47dM0HyffDSdV5AAwOvbNkJY_CeznOsmsy3aFK4_fQwVMUxKLSyL2_ur26CdeVEYu3WTDmk6nPyJP7asJHDa_dlaHOVRNErLx7Ll7VYskVHfoOt6ZKDwOdjWbu5p-L62zBLIBNfTyaGBuu6ZwGnmXy7eMqINEp7NtABQFq-GzBjDSNUvj1f48xcq7hQyP6zwCR_uEsIWg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Pasión por la tecnología, el software, su diseño y calidad. + Capacidad de autoaprendizaje y mejora continua. + Conocimientos de programación y diseño con javascript en entornos frontend. + Experiencia en desarrollo de aplicaciones web Javascript ES6 con frameworks basados en componentes (React, Angular, Vue). + Conocimientos de testing automático (tests unitarios, integración) y herramientas de gestión de versiones (Git). Se valorará en especial: + Portfolio con código propio: Github, Gitlab, Bitbucket, etc. + Conocimientos o experiencia trabajando con aplicaciones reactivas o con componentes de comunicación en tiempo real. + Inglés",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "7",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "30.000€ - 33.000€ Bruto/año"
+     },
+     {
+        "id": "9ef8796fe84fd7898eb75827b1259c",
+        "title": "Programador Back End / Programador Front End",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/programador-back-end-programador-front-end/of-i9ef8796fe84fd7898eb75827b1259c",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-03-27T15:11:36.000Z",
+        "updated": "2019-03-27T15:11:36.000Z",
+        "author": {
+           "id": "966149424526202950463215750409",
+           "name": "Konica Minolta Business Solutions Spain, S.A.",
+           "uri": "https://konicaminolta.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/11/119489b5-137d-4f90-a398-518e9affe57b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTMyNTMsImV4cCI6MTU3MzAyOTI1MywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzExLzExOTQ4OWI1LTEzN2QtNGY5MC1hMzk4LTUxOGU5YWZmZTU3YiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.INIti_ny3hMVsxTuFc2Lh4TyoOOBaIXp463ytqfCDNO-RLxMZpC8sn_7FGRPM9bu6pGc0fKD01jmMGbhQ7zrlg2XdmFNgUgc1ESRf7CaCUHm3BKxzcyOJanXm3hBqX9UVtbIp5fAlP5uqYqcAv22iHiPoQG_Dd69KtbV0TZQxO_qxmm3hcqd6t5KV0hXrSEV7gxjWIBzUjBwjFMiTakWbwrDj1ykKTUHUM1WnsFsb_yUQsuw-lvveQEatu5eggmRIE_NHmt2gIetyNZGFSotsUDrvQTTdERaUwxf8ZIqXBMzHuyBDjzuh1cAsOnOy9ymxCLDOZIlbsZNTLoTtioOvw&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "09e19d08774a50a89b6972cca318ca",
+        "title": "Desarrollador Front-End",
+        "province": {
+           "id": 28,
+           "value": "A Coruña"
+        },
+        "city": "Santiago De Compostela",
+        "link": "https://www.infojobs.net/santiago-de-compostela/desarrollador-front-end/of-i09e19d08774a50a89b6972cca318ca",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "published": "2019-02-12T16:12:51.000Z",
+        "updated": "2019-03-26T19:00:01.000Z",
+        "author": {
+           "id": "98554852484057831051162014264806615086",
+           "name": "Situm Technologies",
+           "uri": "https://www.infojobs.net/situm-technologies/em-i98554852484057831051162014264806615086",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/88/88d90a8b-9c37-40cb-b278-eb1364e6269b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDk5NjAxMzQsImV4cCI6MTU4MTQ5NjEzNCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzg4Lzg4ZDkwYThiLTljMzctNDBjYi1iMjc4LWViMTM2NGU2MjY5YiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.gHYx4ZmpbGnTQHtr4uVPGySLimWoOiuP_rrvLKQG02jyoMWzK1-ocDi3-xW6CQlbXdfbm5Z1NvWY2zCixsviYBk12Rmv-IDujjXOL8JNQSOasI4lz13fnlrZUD4EnfstELqP1Tk5-yJZhB32StpcZjc5vPfnUZOGnTe7fgxUMw-MtE81LSyjICrlN8CsWV3p5wvatwQV1OS0ijUX5CVZiEznLHE12EqsFSCL7XGxI9bEVN0GXY2Iwrr9UuW4X2WKxWABxJ3s6TxX9iQOmZtvNLMz4IyV33hNppo6Mszql80PsGqYV2WwAIt5CUVZyjN0qtGFEq3i5yTsM9Wnl2tQsg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Principales Requisitos: + Pasión por la tecnología, el software, su diseño y calidad. + Capacidad de autoaprendizaje y mejora continua. + Conocimientos de programación y diseño con javascript en entornos frontend. + Experiencia en desarrollo de aplicaciones web Javascript ES6 con frameworks basados en componentes (React, Angular, Vue). + Capacidad de trabajar con Linux como entorno de desarrollo. + Conocimientos de testing automático (tests unitarios, integración) y herramientas de gestión de versiones (Git, Mercurial, etc). Y además se valorará: + Portfolio con código propio: Github, Gitlab, Bitbucket, etc. + Conocimientos de librerías cartográficas (Mapbox, Google Maps, Leaflet, Carto...). + Experiencia con ES6, npm, librerías de bundling (Webpack, Browsify) y de tipado (Flow, TypeScript), y algún framework front-end (React, Angular >2, Vue). + Conocimientos o experiencia trabajando con aplicaciones reactivas o con componentes de comunicación en tiempo real.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "14",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Más de 20.000€"
+     },
+     {
+        "id": "080357de6447d88170e75683829731",
+        "title": "Desarrollador de Front End",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-front-end/of-i080357de6447d88170e75683829731",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 30,
+           "value": "Formación Profesional Grado Medio"
+        },
+        "published": "2019-03-26T15:08:50.000Z",
+        "updated": "2019-03-26T15:08:50.000Z",
+        "author": {
+           "id": "70ab4db29f42f8b26abcbf8ad282d3",
+           "name": "Avanade Madrid",
+           "uri": "https://avanade.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d3/d38e28d2-f84c-47b3-bd21-b1d44a810ef2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODI5NDIsImV4cCI6MTU1NjExODk0MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2QzL2QzOGUyOGQyLWY4NGMtNDdiMy1iZDIxLWIxZDQ0YTgxMGVmMiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.WY7OLJpDwhK3HDHI1AvuLuCLkqGW6gb6CgJwGQdiBxlhjwQR_YvfzD3UciY1c1I0E03GWHQ06R4D9em4bvOv6zxZTM9yShQjKPuP55mIUAO1gSUbfVDJUZE0gjRlvjun4fM_Sswi2KOddVncKRqisnoNI_nspTPsYcPoxR8wjA-mLTy_tdUd34IwjwMnrdVqc3zTW6dF3R8LiFvkTFVeQeOzj-wdO-Hlu-w4mde9UzkiW-nxPIzGcX-7M_g6QLY5qitaWF6iQzY3eIcLI47_To-WvhcXGbmf8nudd164WZ17VU7oEA0ptKgfqcTXafVe2HOpsMv4uPXtsqjkQptdfQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "4ae3c89a8241e98d67d08a451cd209",
+        "title": "FRONTEND DEVELOPER (JavaScript React/Redux)",
+        "province": {
+           "id": 49,
+           "value": "Valencia/Val??ncia"
+        },
+        "city": "Valencia",
+        "link": "https://www.infojobs.net/valencia/frontend-developer-javascript-react-redux/of-i4ae3c89a8241e98d67d08a451cd209",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 290,
+           "value": "36.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2019-03-26T10:41:18.000Z",
+        "updated": "2019-03-26T10:41:18.000Z",
+        "author": {
+           "id": "98525253495257657669781019096232709131",
+           "name": "ALENTA EQUIPO S.L.",
+           "uri": "https://alentaequipo.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/6e/6ef54272-fcf7-435d-afa2-3a3e5e9b6368?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDcxNDMyNTcsImV4cCI6MTU3ODY3OTI1NywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzZlLzZlZjU0MjcyLWZjZjctNDM1ZC1hZmEyLTNhM2U1ZTliNjM2OCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.GeFHVIE0Mtj5B75jp0BaDt8AnZKh0Y3uWNn89W4xoBUsRrKxCyILbsMarQsaS5E8Ts6GqZPX8DgeU18Uifu3ifT--IVpq7VNxa0cm-7QLuoKV1ovh7uUd2MIuT8wuJe7Im06lyyGY07lABSchNCyGcP6_I5O-66EGufo0lmUN3FCseWzGydZ4yOlGJ-ap2TL7oBnuRGhXhKi8UPtDFSjiggDYtrxjJ9GelU46g3WbpmKvxPiFZUHAbn1dZFhKuEdP8akCmxd2tai-0bi7E2bhFZ5tmfaX7evFDta6-w84w_7bpefQJ_Lg80HVvjAk2XndKlHwlagQDCKMs_iNhAMCg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "24.000€ - 36.000€ Bruto/año"
+     },
+     {
+        "id": "a2dc94d35d440e9b6867db407f3474",
+        "title": "Junior FrontEnd Developer",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/junior-frontend-developer/of-ia2dc94d35d440e9b6867db407f3474",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 60,
+           "value": "Ciclo Formativo Grado Superior"
+        },
+        "published": "2019-03-26T09:12:33.000Z",
+        "updated": "2019-03-26T09:12:33.000Z",
+        "author": {
+           "id": "98565357565050739710410010256400112889",
+           "name": "Iahorro Business Solutions, SL",
+           "uri": "https://www.infojobs.net/iahorro-business-solutions-sl/em-i98565357565050739710410010256400112889",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "o Desarrollo frontend - HTML5 y CSS3 - Precompiladores: Sass, Less - Metodologías de CSS (OCCSS, BEM, etc) - Javascript (algún conocimiento de frameworks como React, Vue, Angular o Ember) - Automatizadores de tareas, gestores de dependencias (gulp, webpack, yarn...) o Extras valorables: - Maquetación plantillas emailing - UI/UX",
+        "bold": true,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "6820289b874a318ce0fa60f8d91cdb",
+        "title": "Frontend Developer",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/frontend-developer/of-i6820289b874a318ce0fa60f8d91cdb",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 3,
+           "value": "Al menos 3 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-03-22T13:57:13.000Z",
+        "updated": "2019-03-22T13:57:13.000Z",
+        "author": {
+           "id": "98545548574950731151110017165218110412",
+           "name": "isolutions Barcelona",
+           "uri": "https://www.infojobs.net/isolutions-barcelona/em-i98545548574950731151110017165218110412",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/2b/2bfae1c9-6e6d-4a77-9d16-322d0391e46d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzcyOTAsImV4cCI6MTU1NjExMzI5MCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzJiLzJiZmFlMWM5LTZlNmQtNGE3Ny05ZDE2LTMyMmQwMzkxZTQ2ZCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.WQaq4hWY_RNY_7MGXr_Jt3yRLwb1Aq0BBDpjkQZ43ET2KiqDNME-CW6MCFHfHPk_DPG-1EBiIrWF8Mk__sePyiKp_gs9q9E9tPxEP-I3rLQ8i6ySqSzTh6M0xUkC0ObjsFKTlfzO6KY-yqZlbQik11SWOvKsQpHlvRn9TsxK14-hlxOJ5WkwLoE4GYUZr1pSEHUpclwarJUREOupVnHSBuqUzFZJqFtP7GfshSnPxzmPGRNK432lWcocSf1M40lyKfd-2-br16vBtd8j9kEzGJYj7btL2j8-rIiv19s7dXzVRn01SeuIrDgfTDLiWXtxRtlmrDlXnZSGL5swCE2yIg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "We'd love to hear from you if: - You have completed or ongoing part-time (technical) university studies in computer science or related fields. - You have 2 ore more years of experience and a portfolio with some of your projects. - You are experienced in the conception, design, and implementation of web applications with React (alternatively Angular, Vue.js) - You are familiar with Building Tools (like Azure DevOps) and can read between the lines and turn complicated problems into simple and elegant solutions. - You work in a structured, methodical and goal-oriented way and feel comfortable using English as the main communication language. - You have EU citizenship or a Spanish work Visa.",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "5",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "8930fbc4e140d8857a10aa885ed9a2",
+        "title": "Desarrollador Front-end Senior",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/desarrollador-front-end-senior/of-i8930fbc4e140d8857a10aa885ed9a2",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3106,
+           "value": "Análisis"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 5,
+           "value": "Más de 5 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-03-22T10:45:49.000Z",
+        "updated": "2019-03-22T10:45:49.000Z",
+        "author": {
+           "id": "11952484855521008311619017013508606302",
+           "name": "StratioBD",
+           "uri": "https://stratio.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/27/275ccb47-56c1-46ea-85ea-a215739ff4a0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzQ1NDMsImV4cCI6MTU1NjExMDU0MywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzI3LzI3NWNjYjQ3LTU2YzEtNDZlYS04NWVhLWEyMTU3MzlmZjRhMCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.bwwM4gq07f7l1yG8ws-ZEqmCUsnret7M-oQsybLqMPnKfyRhceRwX3heEGSIBYo3fO8ai-QlC9Ly-6K9zjOFef2DU2_X453iCw3ULrKxKdecWnytaMCGpHGS-mt_xLVHnnqOVBD-ZlXx3V0KPHU4ieJMYftrjpIcu95M7aVCbcmHDz_xD6sbKOv7wu3IZWPmZYPW6ICHHwjBgM7FdCu1WyLCp23tuPo6Z4sCdaLv_lL-8eHPK6ays0Ubs-BlH7OcjtpGtkzQefwQqyrlBOtlAOpLu_X3Ja4YptfCsecQ4ovBHwdOD94TWi8e4bZHPokLqNxckcG8o72FG1ikSzEm3w&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "1",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "dcce3e953e46f68f37d7054b0ec4aa",
+        "title": "Digital Content & Merchandising Executive",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/digital-content-merchandising-executive/of-idcce3e953e46f68f37d7054b0ec4aa",
+        "category": {
+           "id": 110,
+           "value": "Marketing y comunicación"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3071,
+           "value": "Marketing"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 6,
+           "value": "Al menos 2 años"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 147,
+           "value": "Máster"
+        },
+        "published": "2019-02-26T08:05:06.000Z",
+        "updated": "2019-02-26T08:05:06.000Z",
+        "author": {
+           "id": "963455524526202250183215151395",
+           "name": "Pronovias",
+           "uri": "https://pronovias.ofertas-trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/ee/ee4ecf0d-1a41-40d0-a1e2-cf595aad1a4b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTcwNTIsImV4cCI6MTU3MzAzMzA1MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2VlL2VlNGVjZjBkLTFhNDEtNDBkMC1hMWUyLWNmNTk1YWFkMWE0YiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.R3oeS-K9tMmpgZj1udRZXbErIb_AncxBC-orreJugoq7iLHStv7238KPJjN6r-_XMBL_QeWmqmrn6Uv82KoJ_7jkM_rcuf15S_Pbz-wVZk9isPP0jChCRJfDY4CuVWJMEScJNKLeGGiZ-1ZgsVJV0u0XmLJeRfm7R9oljhDNomT1N49mGZU_-CUQWxSGzfx9NvBpSZNdcd_OB9-O7bvCkyd1cKTtPVEEflzST_AElka3zGCfxQSIAS1MDdKtc_Y6wYCvRwsF0V4Ap625QseYzn_lGyx0gU27mHlqHbd-jvw6PpSD9ZcFlCCJpf633xmbkveqDhf1ShmaNboQm9TXqg&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Education Level: Master degree with focus in Digital (if possible) Languages: -Spanish (Fluent) -English (Proficiency) -Any other languages can be useful Computer skills: -Ability to use and understand a CMS – Magento (nice to have) -Ability to use web analytics tools Personal skills: -Effective in navigating the internal organization to resolve issues and achieve objectives. -Organized, detail-oriented with excellent follow-through and follow-up abilities -Effective oral &amp; written communication and presentation skills to persuade decision makers -Creative mind-set",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "79bffe31a744e0850e4b92fd8429b0",
+        "title": "PROGRAMADOR FRONT END con React",
+        "province": {
+           "id": 33,
+           "value": "Madrid"
+        },
+        "city": "Madrid",
+        "link": "https://www.infojobs.net/madrid/programador-front-end-con-react/of-i79bffe31a744e0850e4b92fd8429b0",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 0,
+           "value": ""
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryMax": {
+           "id": 0,
+           "value": ""
+        },
+        "salaryPeriod": {
+           "id": 0,
+           "value": ""
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 55,
+           "value": "Formación Profesional Grado Superior"
+        },
+        "published": "2019-02-18T10:57:30.000Z",
+        "updated": "2019-02-20T14:46:46.000Z",
+        "author": {
+           "id": "baf6633b9e4119bbf2f688e9efca08",
+           "name": "Sopra Steria - Profesionales con experiencia",
+           "uri": "https://soprasteria.trabajo.infojobs.net",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/7b/7bdf1b48-8994-4c96-8a7d-cfd6d2239b0d?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTM2MDUwMDYsImV4cCI6MTU4NTE0MTAwNiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzdiLzdiZGYxYjQ4LTg5OTQtNGM5Ni04YTdkLWNmZDZkMjIzOWIwZCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.MHcjcRQPbMpjv9jQEfHhYtN2on654f_nxh4BVIm0VpgvuhY6DOHVZhWnkobssPXdBeAbRthIEo1lFYd194kKEctpo-TfYOM3AY_sVMPcvauvlnF1j6dnrc0BvydQHxT_jWdzH4i_di_v83whXteG3eG1ru0s4YOvJ514vwSzhDfexeP1_OHXLho37CEUD00KtB5_yBMR58D1UtxVG40H6QBdO_YTom-PkbTYVXpUVLGJVOQYvzGjMNWZEgITjFSaVf_xvAZbF_Si9On6xILyd7f9pHhviM29TPDemG-zxnOz39Lqkp8P-TcjXuWNHe9R_CbBKgBfrfklSji41NJtXQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": true,
+           "showCorporativeHeader": true
+        },
+        "requirementMin": "No es la lista de los reyes magos, pero, nos gustaría que tuvieras??. experiencia trabajando con REACT, programando en JAVA / JAVASCRIPT y conocimientos en Responsive Desing y diseño de experiencia de usuario. ¿Tienes experiencia configurando CSS mediante HOC y Render Props? O bien, ¿tienes experiencia configurando CSS mediante Librería LESS? También nos gustaría que tuvieras experiencia en integración continua con GIT y conocieras la librería MaterialUI. Si no has trabajado nunca con REACT pero has hecho algún curso o proyecto por tu cuenta...esta puede ser tu oportunidad para seguir desarrollándote como Front End Developer. Mejoramos día a día para hacer posible la transformación digital de nuestros clientes y para conseguirlo necesitamos seguir creciendo y sumando gracias a personas como tú, ¿quieres dejar tu huella?",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "10",
+        "subSegment": 23,
+        "executive": false,
+        "salaryDescription": "Salario no disponible"
+     },
+     {
+        "id": "26bf59aeb1496b95335414e2725805",
+        "title": "Senior Frontend Developer",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/senior-frontend-developer/of-i26bf59aeb1496b95335414e2725805",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 265,
+           "value": "21.000 €"
+        },
+        "salaryMax": {
+           "id": 960,
+           "value": "40.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 2,
+           "value": "Al menos 1 año"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 125,
+           "value": "Grado"
+        },
+        "published": "2019-02-14T14:42:02.000Z",
+        "updated": "2019-02-14T14:42:02.000Z",
+        "author": {
+           "id": "11050555452551016711415018294460903324",
+           "name": "Creating-web gmbh",
+           "uri": "https://www.infojobs.net/creating-web-gmbh/em-i11050555452551016711415018294460903324",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/9f/9f6d3411-c5e3-44c6-b80f-dc45e01d8435?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDg0MDQ5NTIsImV4cCI6MTU3OTk0MDk1MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzlmLzlmNmQzNDExLWM1ZTMtNDRjNi1iODBmLWRjNDVlMDFkODQzNSIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.SpYSjniJ7W4xjTtNb7FUaAzeBOY3aA9uG9--Sj_2N2xM5MeGKmrAXyuRKTrqz50lVzX4yIuqQkX_-3hwkzDHxnUGUzVNIyYuHleoJDWXN8Cd2qqMR6HUSLoiK7I9mF_7LO0KH09zy3CCDLBk4c2HQ8Iynz6tU-0oTVU4NBETeRaljqMp8RVh18TG-kRoER_eOpMbkEaWYb9mgZ1wzZRvzG3QLLQJ3oIrMeBIbw-1G_3eqkeFIOft3dDOG6oHC8RNAcvop2jpepV5420Ehd-_dBww1JihXhN3-C1f3QP8A_-aBRGxctP4MiRz0-qZKQ3JdPwNV8yRDqnCjkMXDvDQyA&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "5",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "21.000€ - 40.000€ Bruto/año"
+     },
+     {
+        "id": "1babfc62964a6d8e41ad6e926531f4",
+        "title": "Junior Software Engineer",
+        "province": {
+           "id": 9,
+           "value": "Barcelona"
+        },
+        "city": "Barcelona",
+        "link": "https://www.infojobs.net/barcelona/junior-software-engineer/of-i1babfc62964a6d8e41ad6e926531f4",
+        "category": {
+           "id": 150,
+           "value": "Informática y telecomunicaciones"
+        },
+        "contractType": {
+           "id": 1,
+           "value": "Indefinido"
+        },
+        "subcategory": {
+           "id": 3124,
+           "value": "Programación"
+        },
+        "salaryMin": {
+           "id": 270,
+           "value": "24.000 €"
+        },
+        "salaryMax": {
+           "id": 275,
+           "value": "27.000 €"
+        },
+        "salaryPeriod": {
+           "id": 3,
+           "value": "Bruto/año"
+        },
+        "experienceMin": {
+           "id": 1,
+           "value": "No Requerida"
+        },
+        "workDay": {
+           "id": 1,
+           "value": "Completa"
+        },
+        "study": {
+           "id": 120,
+           "value": "Ingeniería Técnica"
+        },
+        "published": "2019-02-12T12:28:06.000Z",
+        "updated": "2019-02-12T12:28:06.000Z",
+        "author": {
+           "id": "961753424526202950533215155910",
+           "name": "FOREXSTREET",
+           "uri": "https://www.infojobs.net/forexstreet/em-i961753424526202950533215155910",
+           "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/14/14298541-004a-4360-bc6d-812c9b0e4986?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTYwODYsImV4cCI6MTU3MzAzMjA4NiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzE0LzE0Mjk4NTQxLTAwNGEtNDM2MC1iYzZkLTgxMmM5YjBlNDk4NiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.JuYDdNg6oJZVrDRKnh_ZuUICUwNZDJgOvJ0QNXozVMYozgk1AUP4NY_WZVHenOj708mXVLlLbW2qe6B-Ap5uHQsV9MHSTFXJSM-sAUaaZMC0MsQKHW1p_yH3XJfBM0hqa0T-O9Zkn2zy4wQlCLREvAU3SI1JQyccNtMN2HSkaDYknPqiL7wI7B3PWRESlnU521UC2P2W1bEKX8AWqZwgxlWvCuGJTMtCKzloJNaJ5R2JsxGwZmnoTvrYKr1-O64o8wQzgl4ZSTyYg9t_98_115GzNQxpN443jfj92PQYWfiFKXewcQyJQVQqXnSK5YdFlgF2EUUSlw7EivD_KQ9cqQ&AccessKeyId=d724d9a53d95a810",
+           "corporateResponsive": false,
+           "showCorporativeHeader": false
+        },
+        "requirementMin": "Computer Software Engineer Degree Strong understanding of OOP is a must, DDD and Clean Code are the two pillars of the department Problem solving mind oriented Skills in any OO programming language such as C# or Java.  Javascript framework such as JQuery, Angular, Preact SQL queries Testing Good communication skills",
+        "bold": false,
+        "urgent": false,
+        "color": false,
+        "applications": "0",
+        "subSegment": 22,
+        "executive": false,
+        "salaryDescription": "24.000€ - 27.000€ Bruto/año"
+     }
+  ]
+}

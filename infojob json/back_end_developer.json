@@ -1,0 +1,589 @@
+{
+    "currentPage": 1,
+    "pageSize": 200,
+    "totalResults": 9,
+    "currentResults": 9,
+    "totalPages": 1,
+    "dataLayer": {
+       "es-sch-search_terms": "22back-end-developer-22",
+       "es-sch-region_level2_id": "0"
+    },
+    "offers": [
+       {
+          "id": "d33f9decee42b1b8aabe49f4398c49",
+          "title": "Senior Back End Developer",
+          "province": {
+             "id": 9,
+             "value": "Barcelona"
+          },
+          "city": "Barcelona",
+          "link": "https://www.infojobs.net/barcelona/senior-back-end-developer/of-id33f9decee42b1b8aabe49f4398c49",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 280,
+             "value": "30.000 €"
+          },
+          "salaryMax": {
+             "id": 990,
+             "value": "45.000 €"
+          },
+          "salaryPeriod": {
+             "id": 3,
+             "value": "Bruto/año"
+          },
+          "experienceMin": {
+             "id": 5,
+             "value": "Más de 5 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 120,
+             "value": "Ingeniería Técnica"
+          },
+          "published": "2019-03-07T17:31:52.000Z",
+          "updated": "2019-03-28T19:00:01.000Z",
+          "author": {
+             "id": "98545455574248651051143017145947206422",
+             "name": "Airplane Solutions",
+             "uri": "https://www.infojobs.net/airplane-solutions/em-i98545455574248651051143017145947206422",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/c3/c33f1a8a-3e92-4e28-a866-388ef1ae38d4?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NTE5ODAxNDQsImV4cCI6MTU4MzUxNjE0NCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2MzL2MzM2YxYThhLTNlOTItNGUyOC1hODY2LTM4OGVmMWFlMzhkNCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.TZw3dymY2wnmVyoJ6iWXLEkhHn3skmjhlMpkNMomQS4i7BNkT9vnvI-VuqZVqeaUS4M_YBnhRGPDXUosj8dMi5OXGqa2fqjqPXtnBCHdHmE7SW-zu5ngwrX8lQVIYvCkXTx7030mcStCGrYVI6Of2hAFj6fm6OWe5sYej-Nf_S1tqRIRGv2sAr3wxcwlIOTDGAifYDI-pLXEB-DZ7e7RlJPLQI9KmOeh_R6MG7jz4X4nD9v1BFjCM5-h6cj5UQ-aMzfeAnBagglk4iGEatFHRpkZErppdeLfEtB2-zFdwHFsVTCzadPJZnJWuB1QqV6erZlmuUrCa77QJJCdYppz3Q&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "Experiencia en programación con alguna de las siguientes tecnologías y frameworks: Javascript, Node.js, Java, Python, Ajax, Web services SOAP/REST, Restful APIs, expresiones regulares, HTML5, CSS. - Base de datos relacionales: MySQL, Postgress, etc. - Buen conocimiento en Linux, bash, etc.",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "14",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "30.000€ - 45.000€ Bruto/año"
+       },
+       {
+          "id": "5809611c064b28a32f6ed1e40db306",
+          "title": "Back-end Developer (Node.js)",
+          "province": {
+             "id": 33,
+             "value": "Madrid"
+          },
+          "city": "Madrid",
+          "link": "https://www.infojobs.net/madrid/back-end-developer-node.js/of-i5809611c064b28a32f6ed1e40db306",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryMax": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryPeriod": {
+             "id": 0,
+             "value": ""
+          },
+          "experienceMin": {
+             "id": 6,
+             "value": "Al menos 2 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 120,
+             "value": "Ingeniería Técnica"
+          },
+          "published": "2019-03-12T12:10:43.000Z",
+          "updated": "2019-03-12T12:10:43.000Z",
+          "author": {
+             "id": "967551524526202450553215455245",
+             "name": "MNEMO",
+             "uri": "https://mnemo.ofertas-trabajo.infojobs.net",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/99/99f91783-6d11-4c7a-8e3d-1ff88770d992?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTcxMzcsImV4cCI6MTU3MzAzMzEzNywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzk5Lzk5ZjkxNzgzLTZkMTEtNGM3YS04ZTNkLTFmZjg4NzcwZDk5MiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.fS_EtBKYX_UViVzJKZSczpVmneZufQPH94iQ8gpdYU5qb2kZaECmvl5dLmqAs2L-BX_BPeaWzDZx8OsmeLG0o-gWxaU_MKE-tNqA5QieIKhr7JbMsms1OKSBfuEINyTSxeO101PpI7M5eIGA95VFTgobCK9XzwdkH9FpCbCUeeal_JN3V1lUoShKTLo4qUL1ClZRi71kFd-wlTn2D1vP2qXI_Ov_vbXpo_qfYFuhfL4SS2gOZFEtrL2tNkJdCPw9bA_Y92fueoM1EhVud36183jYs2HWBYTps0hgY5rdX5bCTrKA9wz0pMBYmANbGDGOyEFu0EKkFS0QkBthotSetg&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "-Experiencia en desarrollo de procesos Back-end y microservicios. - Experiencia consolidada con Java Script. Conocimientos de la mayoría de las tecnologías utilizadas en proyecto: - Stack tecnológico: Node.js, RabbitMQ, MongoDB y ElasticSearch - Metodología SCRUM - Gestión de tareas en Jira y documentación en Confluence - Control de versiones: Git - Infraestructura: Docker y Kubernetes - Despliegues en Jenkins - Testing de código",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "Salario no disponible"
+       },
+       {
+          "id": "ab19e3750147b1a14c1319817a1741",
+          "title": "Back-End Developer",
+          "province": {
+             "id": 33,
+             "value": "Madrid"
+          },
+          "city": "Madrid",
+          "link": "https://www.infojobs.net/madrid/back-end-developer/of-iab19e3750147b1a14c1319817a1741",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryMax": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryPeriod": {
+             "id": 0,
+             "value": ""
+          },
+          "experienceMin": {
+             "id": 2,
+             "value": "Al menos 1 año"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 35,
+             "value": "Ciclo Formativo Grado Medio"
+          },
+          "published": "2019-02-01T11:52:08.000Z",
+          "updated": "2019-02-01T11:52:08.000Z",
+          "author": {
+             "id": "98565553565052651141091018264882900682",
+             "name": "Armadillo Amarillo S.L.",
+             "uri": "https://www.infojobs.net/armadillo-amarillo-s.l./em-i98565553565052651141091018264882900682",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/e7/e7057922-3464-48bc-ab15-fafd70350df0?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1NzI2MzIsImV4cCI6MTU1NjEwODYzMiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2U3L2U3MDU3OTIyLTM0NjQtNDhiYy1hYjE1LWZhZmQ3MDM1MGRmMCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.Tysyc1iW6KCO-yNomO-qiFqjY6NVgF_DGA59xysrIuKU3p7JwXMk-5QgHGzmGBScOLJrd0kIV0QWa2kHC8CLjBts8PS0rtcBxkrRIeahWLVXoIbXKqre0GOiWsm4mAeCmMIKKBDTMHzqooqz73jWFMGD2wVgXuhr1iJQ92op0iSNkmbIo4DitKYPZK69EXTts6JjoQK7esSM-56jXanMcuPZpOUAAsDJ998V5DGcvn0-0aUdDTHhlvITQvDGF2wI4lu5NBFCdltcW-NPVvqn2A0qwu0ZyRrZxMZeixvXRDDBzniguSw8Oc7npn2z6WLYv-TjtcHR2jhc9t2nDHQMgg&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "HTML CSS JavaScript Laravel/Symfony. Se valorará: Un portfolio de tus trabajos realizados Desarrollo con Ionic Framework Experiencia en WordPress y Prestashop. Experiencia en desarrollo de front. Experiencia en maquetación.",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "4",
+          "subSegment": 23,
+          "executive": false,
+          "salaryDescription": "Salario no disponible"
+       },
+       {
+          "id": "9ef8796fe84fd7898eb75827b1259c",
+          "title": "Programador Back End / Programador Front End",
+          "province": {
+             "id": 33,
+             "value": "Madrid"
+          },
+          "city": "Madrid",
+          "link": "https://www.infojobs.net/madrid/programador-back-end-programador-front-end/of-i9ef8796fe84fd7898eb75827b1259c",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryMax": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryPeriod": {
+             "id": 0,
+             "value": ""
+          },
+          "experienceMin": {
+             "id": 6,
+             "value": "Al menos 2 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 120,
+             "value": "Ingeniería Técnica"
+          },
+          "published": "2019-03-27T15:11:36.000Z",
+          "updated": "2019-03-27T15:11:36.000Z",
+          "author": {
+             "id": "966149424526202950463215750409",
+             "name": "Konica Minolta Business Solutions Spain, S.A.",
+             "uri": "https://konicaminolta.ofertas-trabajo.infojobs.net",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/11/119489b5-137d-4f90-a398-518e9affe57b?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTMyNTMsImV4cCI6MTU3MzAyOTI1MywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzExLzExOTQ4OWI1LTEzN2QtNGY5MC1hMzk4LTUxOGU5YWZmZTU3YiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.INIti_ny3hMVsxTuFc2Lh4TyoOOBaIXp463ytqfCDNO-RLxMZpC8sn_7FGRPM9bu6pGc0fKD01jmMGbhQ7zrlg2XdmFNgUgc1ESRf7CaCUHm3BKxzcyOJanXm3hBqX9UVtbIp5fAlP5uqYqcAv22iHiPoQG_Dd69KtbV0TZQxO_qxmm3hcqd6t5KV0hXrSEV7gxjWIBzUjBwjFMiTakWbwrDj1ykKTUHUM1WnsFsb_yUQsuw-lvveQEatu5eggmRIE_NHmt2gIetyNZGFSotsUDrvQTTdERaUwxf8ZIqXBMzHuyBDjzuh1cAsOnOy9ymxCLDOZIlbsZNTLoTtioOvw&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "Salario no disponible"
+       },
+       {
+          "id": "8a617e619b45cba3b867f7f7ee1db3",
+          "title": "Junior Java/Python Developer",
+          "province": {
+             "id": 9,
+             "value": "Barcelona"
+          },
+          "city": "Barcelona",
+          "link": "https://www.infojobs.net/barcelona/junior-java-python-developer/of-i8a617e619b45cba3b867f7f7ee1db3",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 275,
+             "value": "27.000 €"
+          },
+          "salaryMax": {
+             "id": 280,
+             "value": "30.000 €"
+          },
+          "salaryPeriod": {
+             "id": 3,
+             "value": "Bruto/año"
+          },
+          "experienceMin": {
+             "id": 1,
+             "value": "No Requerida"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 120,
+             "value": "Ingeniería Técnica"
+          },
+          "published": "2019-03-27T08:51:52.000Z",
+          "updated": "2019-03-27T08:51:52.000Z",
+          "author": {
+             "id": "963053524526522502930125454729",
+             "name": "SELLBYTEL | Webhelp Group",
+             "uri": "https://sellbytel.trabajo.infojobs.net",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/69/69422943-11d0-4146-b367-335e70dc67ec?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDA5ODM2MTQsImV4cCI6MTU3MjUxOTYxNCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzY5LzY5NDIyOTQzLTExZDAtNDE0Ni1iMzY3LTMzNWU3MGRjNjdlYyIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.ErnkVM759qCSTzcSBkPyxn-trOKOUzX70LJEYze8wfDxLlEWYj87lf8CD_A3YHiUC8oq4VQhHvOqxy5DfRJUhX8hq9F9IBGAp0aYIY3Ql71r6rlQQBfeXavlpwDtVSyyzr4uyz-qWWekV0LvJ_swnnvURAd2oZT1Hs5Oe_9aSTPgB-BlHleb04cVoLRsQgBz0iYL3SneK2jWBFZz9oiwIiyFtStTDXzUZeQADKU2yYQJeojApeyVpKnuihu9VfhHgPhMogMYBtJIv9w2mTNL18JsBgXEaftVAbIPWHf10DT4Hx-_Tp1k05mrgY3GOqdHVAA0apgTLrrffOJcZi1-lA&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": true,
+             "showCorporativeHeader": true
+          },
+          "requirementMin": "100% fluent in English (minimum C1) both written and spoken European citizenship or work permit in Spain Firm understanding of programming (Python or Java) Previous experience as developer (academic or professional) Background in SQL Familiar with web protocols (HTTP, DNS, SSL/TLS etc) Ability to read and understand logs and stack traces Ability to research using internal knowledge bases and public facing documentation (Google Cloud Platform documentation, StackOverflow)",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "27.000€ - 30.000€ Bruto/año"
+       },
+       {
+          "id": "42a8baf18449c28c55735592d6c471",
+          "title": "Desarrollador de Back End",
+          "province": {
+             "id": 33,
+             "value": "Madrid"
+          },
+          "city": "Madrid",
+          "link": "https://www.infojobs.net/madrid/desarrollador-back-end/of-i42a8baf18449c28c55735592d6c471",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryMax": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryPeriod": {
+             "id": 0,
+             "value": ""
+          },
+          "experienceMin": {
+             "id": 2,
+             "value": "Al menos 1 año"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 30,
+             "value": "Formación Profesional Grado Medio"
+          },
+          "published": "2019-03-26T14:45:14.000Z",
+          "updated": "2019-03-26T14:45:14.000Z",
+          "author": {
+             "id": "70ab4db29f42f8b26abcbf8ad282d3",
+             "name": "Avanade Madrid",
+             "uri": "https://avanade.trabajo.infojobs.net",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d3/d38e28d2-f84c-47b3-bd21-b1d44a810ef2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1MjQ1ODI5NDIsImV4cCI6MTU1NjExODk0MiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2QzL2QzOGUyOGQyLWY4NGMtNDdiMy1iZDIxLWIxZDQ0YTgxMGVmMiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.WY7OLJpDwhK3HDHI1AvuLuCLkqGW6gb6CgJwGQdiBxlhjwQR_YvfzD3UciY1c1I0E03GWHQ06R4D9em4bvOv6zxZTM9yShQjKPuP55mIUAO1gSUbfVDJUZE0gjRlvjun4fM_Sswi2KOddVncKRqisnoNI_nspTPsYcPoxR8wjA-mLTy_tdUd34IwjwMnrdVqc3zTW6dF3R8LiFvkTFVeQeOzj-wdO-Hlu-w4mde9UzkiW-nxPIzGcX-7M_g6QLY5qitaWF6iQzY3eIcLI47_To-WvhcXGbmf8nudd164WZ17VU7oEA0ptKgfqcTXafVe2HOpsMv4uPXtsqjkQptdfQ&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": true,
+             "showCorporativeHeader": true
+          },
+          "requirementMin": "",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 23,
+          "executive": false,
+          "salaryDescription": "Salario no disponible"
+       },
+       {
+          "id": "3b2b516c78407295991d946a30684b",
+          "title": "Senior backend developer",
+          "province": {
+             "id": 33,
+             "value": "Madrid"
+          },
+          "city": "Madrid",
+          "link": "https://www.infojobs.net/madrid/senior-backend-developer/of-i3b2b516c78407295991d946a30684b",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryMax": {
+             "id": 0,
+             "value": ""
+          },
+          "salaryPeriod": {
+             "id": 0,
+             "value": ""
+          },
+          "experienceMin": {
+             "id": 3,
+             "value": "Al menos 3 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 130,
+             "value": "Ingeniería Superior"
+          },
+          "published": "2019-01-29T09:30:31.000Z",
+          "updated": "2019-03-26T13:30:00.000Z",
+          "author": {
+             "id": "98555050545057519711012016113791802536",
+             "name": "Smart Protection",
+             "uri": "https://www.infojobs.net/smart-protection/em-i98555050545057519711012016113791802536",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/63/636538b9-f146-4b21-9b02-f66769a2f2c6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDUxMzAyNjQsImV4cCI6MTU3NjY2NjI2NCwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzYzLzYzNjUzOGI5LWYxNDYtNGIyMS05YjAyLWY2Njc2OWEyZjJjNiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.hG0s7gJa1mbrWYiAfC9thcS1B7WlwOSuCgmDhPdhuo8y_-M8kROI1IVZc5raWTAqL_p3dDHEOg3Ep_eEi36uOjYKCwTuq2ZPcdbD9Tz6H-TTRVKuQRiWbcwI7zt-HqyeFkpBFnWbDtVb9YMxKPG6ByppSno4RVj613Zx2AaCvvl0kmLObklbzf-ca0qFyDjN8Qt5-Ck0r7ccrqLEfvrCEnz1_pJz342zCSuN2LXp3a8pvtRYynnYCPZ6MaFTtLe17psqtwBZT7jikIQtCWZFB7GmsJZzEqLljtJIgP7v3HZ7qHhIIbfdBqr7Vle-q8kUbtyIS1aKD4eHrdshYnQ8KA&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "Licenciado: Matemáticas/ Ingeniería grado superior Python Django Conocimiento avanzado: AWS MySQL",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "3",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "Salario no disponible"
+       },
+       {
+          "id": "570983962f4d72bdd8da3ae25852fd",
+          "title": "NET Developer",
+          "province": {
+             "id": 9,
+             "value": "Barcelona"
+          },
+          "city": "L'Hospitalet De Llobregat",
+          "link": "https://www.infojobs.net/l-hospitalet-de-llobregat/net-developer/of-i570983962f4d72bdd8da3ae25852fd",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 290,
+             "value": "36.000 €"
+          },
+          "salaryMax": {
+             "id": 295,
+             "value": "39.000 €"
+          },
+          "salaryPeriod": {
+             "id": 3,
+             "value": "Bruto/año"
+          },
+          "experienceMin": {
+             "id": 3,
+             "value": "Al menos 3 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 60,
+             "value": "Ciclo Formativo Grado Superior"
+          },
+          "published": "2019-03-26T10:56:39.000Z",
+          "updated": "2019-03-26T10:56:39.000Z",
+          "author": {
+             "id": "967756524526202450393215551207",
+             "name": "TecSolutions",
+             "uri": "https://www.infojobs.net/tecsolutions/em-i967756524526202450393215551207",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/de/de0ba346-8f7a-4197-b30b-9562497e37c6?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0MjU1MDIsImV4cCI6MTU3Mjk2MTUwMiwicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzL2RlL2RlMGJhMzQ2LThmN2EtNDE5Ny1iMzBiLTk1NjI0OTdlMzdjNiIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.BKPx64RAhOcPQZ3q5V1-tf8oARsZ0KTCj08HtFOe4Ux2496C3M73retl2hCqVspxJUBkPiGd-TFbyNAAQqSnkv-COLqJnSTk7-YFgLk9vZ-S_wEzWE1KqWveQLLnaP5jmFAfH4sIi8JR7JQspEYCI9SuAoQfGk3V3jtybZi4CZqM8KTAR1hE9QkwOli1XZGIhTKA0AEy09SeM62lg6rRX-ejwGxJNd-Qra4CdCluqJxRkSG_w4WmmuMfkHIGMH19poVk97UpbNGkOzvvam7gDqEB-LtXahMs4YiUa02rTpkwgPLtTc4AjshWzf9pA5kYoAqQt9aK6VjOE9AdLNPPuQ&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "36.000€ - 39.000€ Bruto/año"
+       },
+       {
+          "id": "8f69d867854cf9be155a7b79633e51",
+          "title": "BACKEND DEVELOPER (Node.js)",
+          "province": {
+             "id": 49,
+             "value": "Valencia/Val??ncia"
+          },
+          "city": "Valencia",
+          "link": "https://www.infojobs.net/valencia/backend-developer-node.js/of-i8f69d867854cf9be155a7b79633e51",
+          "category": {
+             "id": 150,
+             "value": "Informática y telecomunicaciones"
+          },
+          "contractType": {
+             "id": 1,
+             "value": "Indefinido"
+          },
+          "subcategory": {
+             "id": 3124,
+             "value": "Programación"
+          },
+          "salaryMin": {
+             "id": 270,
+             "value": "24.000 €"
+          },
+          "salaryMax": {
+             "id": 290,
+             "value": "36.000 €"
+          },
+          "salaryPeriod": {
+             "id": 3,
+             "value": "Bruto/año"
+          },
+          "experienceMin": {
+             "id": 6,
+             "value": "Al menos 2 años"
+          },
+          "workDay": {
+             "id": 1,
+             "value": "Completa"
+          },
+          "study": {
+             "id": 60,
+             "value": "Ciclo Formativo Grado Superior"
+          },
+          "published": "2019-03-26T10:39:50.000Z",
+          "updated": "2019-03-26T10:39:50.000Z",
+          "author": {
+             "id": "98525253495257657669781019096232709131",
+             "name": "ALENTA EQUIPO S.L.",
+             "uri": "https://alentaequipo.ofertas-trabajo.infojobs.net",
+             "logoUrl": "https://cdn-yams.schibsted.com/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/6e/6ef54272-fcf7-435d-afa2-3a3e5e9b6368?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDcxNDMyNTcsImV4cCI6MTU3ODY3OTI1NywicnFzIjoiR0VUXFwvdGVuYW50cy9jN2UyYjljMS04NDgwLTQzYjAtYWQ5ZS0wMDBjMTdhYTJjYmIvZG9tYWlucy83MTgzMDJiNi01MzQzLTQzZDMtYThhMy04MjlkYzNkYTA4OTMvYnVja2V0cy82ZjNhYjFjYy01OTIwLTRmNGUtYjEzMS00NmE0NTg3YTBlMWYvaW1hZ2VzLzZlLzZlZjU0MjcyLWZjZjctNDM1ZC1hZmEyLTNhM2U1ZTliNjM2OCIsIm1ldGFkYXRhIjp7InJ1bGUiOnsidmVyc2lvbiI6IjIwMTYtMTAiLCJhY3Rpb25zIjpbXX19fQ.GeFHVIE0Mtj5B75jp0BaDt8AnZKh0Y3uWNn89W4xoBUsRrKxCyILbsMarQsaS5E8Ts6GqZPX8DgeU18Uifu3ifT--IVpq7VNxa0cm-7QLuoKV1ovh7uUd2MIuT8wuJe7Im06lyyGY07lABSchNCyGcP6_I5O-66EGufo0lmUN3FCseWzGydZ4yOlGJ-ap2TL7oBnuRGhXhKi8UPtDFSjiggDYtrxjJ9GelU46g3WbpmKvxPiFZUHAbn1dZFhKuEdP8akCmxd2tai-0bi7E2bhFZ5tmfaX7evFDta6-w84w_7bpefQJ_Lg80HVvjAk2XndKlHwlagQDCKMs_iNhAMCg&AccessKeyId=d724d9a53d95a810",
+             "corporateResponsive": false,
+             "showCorporativeHeader": false
+          },
+          "requirementMin": "",
+          "bold": false,
+          "urgent": false,
+          "color": false,
+          "applications": "0",
+          "subSegment": 22,
+          "executive": false,
+          "salaryDescription": "24.000€ - 36.000€ Bruto/año"
+       }
+    ]
+ }
