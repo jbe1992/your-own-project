@@ -8,8 +8,11 @@ Do a database to store all the current jobs offers in Spain about Web Developmen
 
 Repo content:
 /csvs: information imported to do the analysis.
+
 /graficos: plots generated in the paper in .png extension.
+
 /infojob json: json files extracted from Infojobs API and used to do the project.
+
 Project.ipynb: Main paper with the code done.
 
 How to get the data:
